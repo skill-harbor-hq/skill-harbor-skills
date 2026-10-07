@@ -1,0 +1,30 @@
+<!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
+---
+name: larksuite-lark-contact
+description: "Resolve Feishu/Lark names and emails to open_ids, and look people up in reverse"
+---
+
+# Lark Contact Resolver
+
+Honest caveats: the underlying skill documentation is written in Chinese; you need a Feishu/Lark account with API access and the lark-cli binary installed; user and bot identities are two fully separate paths — pick the right one first; department-tree traversal and org charts are out of scope (use the native OpenAPI). Skill Harbor never reviews the code, review it yourself before use.
+
+- Listing: https://theskillharbor.com/products/larksuite-lark-contact
+- Fiche en français: https://theskillharbor.com/fr/products/larksuite-lark-contact
+- Category: Communication
+- Price: Free
+- Verification: unverified
+- Source repo: https://github.com/larksuite/cli/blob/main/skills/lark-contact/SKILL.md
+
+## Install with Muse
+
+1. Open the listing page above.
+2. Copy the install package from the page.
+3. Paste it into Muse and follow the steps there.
+
+Installs on Skill Harbor are copy-paste into Muse, never automatic.
+
+## Discover more builds
+
+- Browse: https://theskillharbor.com/products
+- Public search API (no key, read-only): GET https://theskillharbor.com/api/connector/search?q=<keywords>&limit=10
+- MCP (POST https://theskillharbor.com/mcp): tools `search_builds`, `get_build`, `get_install`
