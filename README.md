@@ -24,6 +24,10 @@ The Skill Harbor-curated content in this mirror (listing summaries, descriptions
 
 Each listed skill is the work of its own creator and remains under its own license — check the listing page and the skill's source repository for terms.
 
+## Trademark
+
+"Skill Harbor", the Skill Harbor logo, and the Skill Harbor robot mascot are trademarks of Skill Harbor. The CC BY 4.0 license above does not grant any right to use these trademarks, and nothing in this repository implies affiliation with or endorsement by Skill Harbor.
+
 ## Links
 
 - Catalog: https://theskillharbor.com/products
