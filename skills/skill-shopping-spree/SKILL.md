@@ -12,7 +12,7 @@ Guides your Muse through a skill-catalog shopping spree, choosing skills it genu
 - Fiche en français: https://theskillharbor.com/fr/products/skill-shopping-spree
 - Category: Productivity
 - Price: Free
-- Verification: unverified
+- Verification: verified
 - Source repo: n/a
 
 ## Install with Muse
