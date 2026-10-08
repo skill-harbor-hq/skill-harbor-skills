@@ -18,6 +18,12 @@ Regenerated from the live catalog on a regular basis. The listing pages on https
 
 Skill Harbor installs are copy-paste: open the listing page, copy the install package, paste it into Muse. There is no `npx`/CLI install path.
 
+## License
+
+The Skill Harbor-curated content in this mirror (listing summaries, descriptions, curation notes, install pointers, and the Skill Harbor name) is © 2026 Skill Harbor, licensed under [CC BY 4.0](https://creativecommons.org/licenses/by/4.0/) — see `LICENSE`. You may share and adapt it, even commercially, with credit to Skill Harbor and a note of changes.
+
+Each listed skill is the work of its own creator and remains under its own license — check the listing page and the skill's source repository for terms.
+
 ## Links
 
 - Catalog: https://theskillharbor.com/products
