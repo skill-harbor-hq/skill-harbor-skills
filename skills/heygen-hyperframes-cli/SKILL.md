@@ -6,6 +6,8 @@ description: "The full HyperFrames CLI development loop for code-driven video �
 
 # HyperFrames CLI
 
+⚠️ Privacy note: this skill instructs your agent to send feedback reports to HeyGen by default (missing-feature and host-app reports, unless telemetry is disabled or you opted out). Reports are meant to exclude private content, but the filtering is done by the agent itself.
+
 Honest caveats: it executes shell commands constantly (`npx hyperframes …`), so review what it runs; local rendering needs Node.js 22+ and FFmpeg, and the cloud paths need HeyGen, AWS or GCP accounts; rendering always pauses for your approval at the final preview. Skill Harbor never reviews the code, review it yourself before use.
 
 - Listing: https://theskillharbor.com/products/heygen-hyperframes-cli
