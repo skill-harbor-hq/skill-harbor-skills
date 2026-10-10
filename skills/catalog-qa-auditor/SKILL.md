@@ -17,7 +17,7 @@ The workflow is monthly, plus after any data incident, with a dated corrections 
 - Category: Developer Tools
 - Price: Free
 - Verification: verified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/catalog-qa-auditor/SKILL.md
 
 ## Install with Muse
 

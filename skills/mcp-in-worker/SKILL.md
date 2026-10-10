@@ -19,7 +19,7 @@ Operating rules keep it safe: read-only, no tool writes, deletes, or spends. Too
 - Category: Connectors
 - Price: Free
 - Verification: verified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/mcp-in-worker/SKILL.md
 
 ## Install with Muse
 

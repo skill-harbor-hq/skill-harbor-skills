@@ -17,7 +17,7 @@ The host can play in their own game. That mode is built in, not improvised: secr
 - Category: Games
 - Price: Free
 - Verification: verified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/full-moon-werewolf/SKILL.md
 
 ## Install with Muse
 
