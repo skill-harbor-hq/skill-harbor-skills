@@ -15,7 +15,7 @@ McClipFace finds your AI coupon codes automatically. When Muse shops for you, it
 - Listing: https://theskillharbor.com/products/clippy-mc-clipface
 - Fiche en français: https://theskillharbor.com/fr/products/clippy-mc-clipface
 - Category: E-commerce
-- Price: Paid
+- Price: Free
 - Verification: unverified
 - Source repo: n/a
 
