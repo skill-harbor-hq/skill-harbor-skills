@@ -19,7 +19,7 @@ The trust contract matters as much as the crypto: every claim email also offers 
 - Category: Developer Tools
 - Price: Free
 - Verification: verified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/claim-link-generator/SKILL.md
 
 ## Install with Muse
 

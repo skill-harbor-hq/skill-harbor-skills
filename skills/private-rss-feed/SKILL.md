@@ -19,7 +19,7 @@ Hygiene is the whole game: no static feed.xml in the build output (one deploy aw
 - Category: Web
 - Price: Free
 - Verification: verified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/private-rss-feed/SKILL.md
 
 ## Install with Muse
 

@@ -17,7 +17,7 @@ The operating rules are baked in: public emails only (never guess private addres
 - Category: Marketing
 - Price: Free
 - Verification: verified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/creator-outreach-kit/SKILL.md
 
 ## Install with Muse
 

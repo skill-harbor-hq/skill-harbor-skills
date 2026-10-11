@@ -19,7 +19,7 @@ The human habits are the part no config replaces: every removal gets a short mod
 - Category: Social
 - Price: Free
 - Verification: verified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/reddit-community-starter/SKILL.md
 
 ## Install with Muse
 

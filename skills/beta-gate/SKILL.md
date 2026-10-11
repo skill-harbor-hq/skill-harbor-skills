@@ -19,7 +19,7 @@ The kit also documents the deploy discipline that makes it stick: staging and pr
 - Category: Developer Tools
 - Price: Free
 - Verification: verified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/beta-gate/SKILL.md
 
 ## Install with Muse
 

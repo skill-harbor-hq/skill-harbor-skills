@@ -15,7 +15,7 @@ The workflow has five steps. First, read the headers: in Gmail, open the message
 - Category: Security
 - Price: Free
 - Verification: verified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/anti-phishing-email-check/SKILL.md
 
 ## Install with Muse
 
