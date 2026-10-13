@@ -1,12 +1,12 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: affaan-m-ecc-context-budget
-description: "Audit your Claude Code context window: inventory agents, skills, MCP servers, and rules by token..."
+description: "Context budget answers without the scan: your harness's live meter by default (/context in Claude..."
 ---
 
 # Context Budget
 
-Curated by Skill Harbor: a context budget skill that audits what your Claude Code context window is actually spending tokens on, so you can stop guessing why sessions feel sluggish. It inventories every component by estimated token cost: agents (flagging files over 200 lines and bloated frontmatter), skills (SKILL.md files over 400 lines, duplicate copies skipped), rules (files over 100 lines, overlap detection between rule files), and MCP servers (server and tool counts, roughly 500 tokens of schema overhead per tool, flagging servers with 20+ tools and servers that merely wrap simple CLI commands). The output is a prioritized list of token-savings recommendations, so you know exactly what to trim first for the most headroom. By @affaan-m, listed here with credit to its creator. From the affaan-m/ECC repository (MIT). Honest caveats: pure diagnostic guidance, nothing to install; token estimates are heuristics (words times 1.3), not metered billing; run it when sessions degrade or before adding new components, not obsessively. Skill Harbor never reviews the code, review it yourself before use.
+Curated by Skill Harbor: a context budget skill that answers questions about your Claude Code or Codex context window without scanning anything by default. Ask about your budget and it simply points you to your harness's built-in meter — /context in Claude Code (/context all for the expanded breakdown), /status in Codex — and explains what it shows. A static audit of your installed components exists, but only as an explicit opt-in (--audit, or asking to audit installed components): read-only and bounded, it looks only at the install root and configuration files you name, reads component descriptions and metadata only (not full skill or agent bodies), caps its inventory at 50 entries per kind, and reports estimated static overhead by component class, with the heaviest entries and up to three optimizations. An optional diagnostic can read a single session log file, only when you pick that file yourself. By @affaan-m, listed here with credit to its creator. From the affaan-m/ECC repository (MIT). Honest caveats: pure diagnostic guidance, nothing to install; the audit's numbers are estimates of static configuration overhead (heuristics), never live session measurements or metered billing. Skill Harbor never reviews the code, review it yourself before use.
 
 - Listing: https://theskillharbor.com/products/affaan-m-ecc-context-budget
 - Fiche en français: https://theskillharbor.com/fr/products/affaan-m-ecc-context-budget
