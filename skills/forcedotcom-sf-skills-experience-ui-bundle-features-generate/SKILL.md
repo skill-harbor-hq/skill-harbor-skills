@@ -13,7 +13,7 @@ Honest caveats: React UI bundles only (the skill's verify script stops on non-Re
 - Category: Developer tools
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/forcedotcom/sf-skills/blob/main/plugins/builder/experience-react/skills/experience-ui-bundle-features-generate/SKILL.md
+- Source repo: https://github.com/forcedotcom/sf-skills/blob/main/skills/experience-ui-bundle-features-generate/SKILL.md
 
 ## Install with Muse
 
