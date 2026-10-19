@@ -13,7 +13,7 @@ Turns Muse into a brand-identity art director: strategy first (category, audienc
 - Category: Design
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/leonxlnx/taste-skill
+- Source repo: https://github.com/Leonxlnx/imagegen-skills
 
 ## Install with Muse
 

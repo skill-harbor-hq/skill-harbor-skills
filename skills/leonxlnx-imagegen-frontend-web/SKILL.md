@@ -13,7 +13,7 @@ Frontend art direction for image generation with one ironclad rule: one separate
 - Category: Design
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/leonxlnx/taste-skill
+- Source repo: https://github.com/Leonxlnx/imagegen-skills
 
 ## Install with Muse
 

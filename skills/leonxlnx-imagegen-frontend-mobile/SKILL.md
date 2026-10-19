@@ -13,7 +13,7 @@ Honest caveats: it produces images only — no code, no websites, no desktop das
 - Category: Design
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/leonxlnx/taste-skill
+- Source repo: https://github.com/Leonxlnx/imagegen-skills
 
 ## Install with Muse
 

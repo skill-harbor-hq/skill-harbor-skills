@@ -13,7 +13,7 @@ Honest caveats: the image-first order is only mandatory where the agent can actu
 - Category: Design
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/leonxlnx/taste-skill/blob/main/skills/image-to-code-skill/SKILL.md
+- Source repo: https://github.com/Leonxlnx/imagegen-skills
 
 ## Install with Muse
 
