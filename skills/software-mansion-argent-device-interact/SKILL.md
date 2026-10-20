@@ -6,7 +6,7 @@ description: "Drive iOS simulators, Android emulators, and Chromium apps — tap
 
 # Argent Device Interaction
 
-Skill Harbor never reviews the code, review it yourself before use.
+Updated October 20, 2026: upstream extended the fold tool, which folds or unfolds a foldable device by posture or angle, from foldable iOS simulators only to Android emulators as well (a Pixel Fold or generic foldable AVD), with Android-specific notes on the deviceState result, lock-screen handling after folding to closed, and the generic AVD closed-display tap limitation; the rest of the upstream change is punctuation only in SKILL.md and its three reference files, with no other change to tools or behaviour. Skill Harbor never reviews the code, review it yourself before use.
 
 - Listing: https://theskillharbor.com/products/software-mansion-argent-device-interact
 - Fiche en français: https://theskillharbor.com/fr/products/software-mansion-argent-device-interact
