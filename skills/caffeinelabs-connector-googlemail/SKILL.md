@@ -6,7 +6,7 @@ description: "Send email as the signed-in user's own Gmail account via OAuth"
 
 # Gmail Connector
 
-Honest caveats: works only inside a Caffeine AI build; you must create a Google Cloud Web-application OAuth client, register the app's `/connect/gmail` callback URI as an authorized redirect, and enter the client ID/secret through the app's admin settings page (the secret stays in the canister, never the frontend); the skill explicitly forbids hand-rolled HTTP calls to Google endpoints — only the mops packages are the supported path. Skill Harbor never reviews the code, review it yourself before use.
+Honest caveats: works only inside a Caffeine AI build; you must create a Google Cloud Web-application OAuth client, register the app's `/connect/gmail` callback URI as an authorized redirect, and enter the client ID/secret through the app's admin settings page (the secret stays in the canister, never the frontend); the skill explicitly forbids hand-rolled HTTP calls to Google endpoints — only the mops packages are the supported path. Since 0.2.10, a send failure other than 401 propagates to the caller as a catchable reject instead of trapping the calling message; a failed token refresh still traps and cannot be caught. Skill Harbor never reviews the code, review it yourself before use.
 
 - Listing: https://theskillharbor.com/products/caffeinelabs-connector-googlemail
 - Fiche en français: https://theskillharbor.com/fr/products/caffeinelabs-connector-googlemail

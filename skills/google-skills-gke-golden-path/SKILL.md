@@ -6,7 +6,7 @@ description: "@google's opinionated GKE Autopilot configuration — production d
 
 # GKE golden path: production-ready cluster defaults and readiness checklists
 
-Honest caveats: guidance and defaults only — it does not provision or change cloud resources itself; product defaults may drift from Google Cloud docs; requires GCP access for anything real. Apache-2.0 licensed. Skill Harbor never reviews the code, review it yourself before use. Discovered via skills.sh.
+Honest caveats: guidance and defaults only — it does not provision or change cloud resources itself; product defaults may drift from Google Cloud docs; requires GCP access for anything real. Apache-2.0 licensed. Updated October 20, 2026 (version 1.1.1): before any direct terminal command, the skill now points to references/attribution.md — every direct terminal `gcloud` invocation carries an inline usage-attribution tag (`agent-skills/1.0 (skill:gke-golden-path)`), and direct REST/MCP calls add it to the User-Agent — keep that prefix out of generated scripts, Terraform and user-facing code as the skill instructs; the tag identifies only the skill and its version, carries no user data, and a user opt-out is documented. Skill Harbor never reviews the code, review it yourself before use. Discovered via skills.sh.
 
 - Listing: https://theskillharbor.com/products/google-skills-gke-golden-path
 - Fiche en français: https://theskillharbor.com/fr/products/google-skills-gke-golden-path
