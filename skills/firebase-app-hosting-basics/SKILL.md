@@ -6,7 +6,7 @@ description: "Deploy and manage full-stack SSR apps (Next.js, Angular) on Fireba
 
 # Firebase App Hosting Basics
 
-Honest caveats: App Hosting requires the Firebase project to be on the Blaze (pay-as-you-go) billing plan — upgrade happens in the console, outside the agent; this skill is an entry point whose deeper details live in the repo's reference files, not a complete reference on its own. Skill Harbor never reviews the code, review it yourself before use.
+Honest caveats: App Hosting requires the Firebase project to be on the Blaze (pay-as-you-go) billing plan — upgrade happens in the console, outside the agent; this skill is an entry point whose deeper details live in the repo's reference files, not a complete reference on its own. Update (October 2026): upstream rewrote the secrets step as explicit shell commands — the agent now creates the backend if needed, then pipes the secret value you provide into `apphosting:secrets:set`, which writes it into your own project's Cloud Secret Manager, and grants the backend access; the firebase.json ignore list also gained `.next` and `.vercel`. The regenerated install prompt spells all of this out before anything is installed. Skill Harbor never reviews the code, review it yourself before use.
 
 - Listing: https://theskillharbor.com/products/firebase-app-hosting-basics
 - Fiche en français: https://theskillharbor.com/fr/products/firebase-app-hosting-basics
