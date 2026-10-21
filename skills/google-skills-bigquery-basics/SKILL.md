@@ -6,7 +6,7 @@ description: "Create datasets and tables, run SQL queries, ingest data and manag
 
 # BigQuery basics: datasets, tables, jobs
 
-Honest caveats: requires a Google Cloud project with the BigQuery API enabled and billing configured (a monthly free query/storage quota exists, so costs are low for starters but not zero-free); every terminal `gcloud` invocation carries an inline usage-attribution tag — keep that prefix out of generated scripts and user-facing code as the skill instructs; for BigQuery AI/ML (forecast, anomaly detection, text generation) see the companion bigquery-ai-ml skill. Skill Harbor never reviews the code, review it yourself before use. Discovered via skills.sh.
+Honest caveats: requires a Google Cloud project with the BigQuery API enabled and billing configured (a monthly free query/storage quota exists, so costs are low for starters but not zero-free); every terminal `gcloud` invocation carries an inline usage-attribution tag — keep that prefix out of generated scripts and user-facing code as the skill instructs; for BigQuery AI/ML (forecast, anomaly detection, text generation) see the companion bigquery-ai-ml skill. Updated October 21, 2026 (version 1.0.2): the Attribution rule is stated in SKILL.md itself again, as a MUST READ — before any gcloud, REST API or MCP command, read references/attribution.md; the tag itself is unchanged (it identifies only the skill and its version, carries no user data, applies to direct terminal commands only, and an opt-out is documented). Skill Harbor never reviews the code, review it yourself before use. Discovered via skills.sh.
 
 - Listing: https://theskillharbor.com/products/google-skills-bigquery-basics
 - Fiche en français: https://theskillharbor.com/fr/products/google-skills-bigquery-basics
