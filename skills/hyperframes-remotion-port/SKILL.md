@@ -6,7 +6,7 @@ description: "ports an existing Remotion (React) composition's source into Hyper
 
 # HyperFrames Remotion Port
 
-Niche but genuinely useful if you have Remotion sources to migrate; explicitly not for fresh builds or "make something like my Remotion video" (those route to the general-video workflow). Requires the `hyperframes` CLI via npx. Skill Harbor never reviews the code, review it yourself before use.
+Useful when you have existing video work made with another tool to reuse inside HyperFrames; it imports existing work rather than authoring fresh compositions. Requires the `hyperframes` CLI via npx. Skill Harbor never reviews the code, review it yourself before use.
 
 - Listing: https://theskillharbor.com/products/hyperframes-remotion-port
 - Fiche en français: https://theskillharbor.com/fr/products/hyperframes-remotion-port

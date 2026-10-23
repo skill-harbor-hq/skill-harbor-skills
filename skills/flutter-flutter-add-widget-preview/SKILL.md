@@ -6,7 +6,7 @@ description: "Add @Preview annotations and MultiPreview galleries to iterate on 
 
 # Flutter Widget Preview
 
-Honest caveats: previews render in the Previewer, not on a real device — platform behavior can differ; the skill covers the annotation and iteration workflow, not general widget design. Skill Harbor never reviews the code, review it yourself before use.
+Honest caveats: previews render in the Previewer, not on a real device — platform behavior can differ; the skill covers the annotation and iteration workflow, not general widget design. Updated October 22, 2026: the skill now documents the eight @Preview parameters explicitly (name, group, size, textScaleFactor, wrapper, theme, brightness, localizations), its IDE workflow assumes Flutter 3.47+, and it notes the previewer's .widget_preview/ build cache; installation is unchanged. Skill Harbor never reviews the code, review it yourself before use.
 
 - Listing: https://theskillharbor.com/products/flutter-flutter-add-widget-preview
 - Fiche en français: https://theskillharbor.com/fr/products/flutter-flutter-add-widget-preview

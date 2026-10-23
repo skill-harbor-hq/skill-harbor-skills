@@ -6,7 +6,7 @@ description: "Author, edit and validate SDFormat XML for Gazebo: design ledger, 
 
 # SDFormat (SDF) authoring and validation for robot simulators
 
-Skill Harbor never reviews the code, review it yourself before use. Discovered via skills.sh.
+Updated October 22, 2026 (cadgen 0.7.26): re-pinned to cadgen 0.7.26, and the setup note above is corrected to match the install prompt — cadgen runs through uvx on a managed Python 3.13, not a pip install. Skill Harbor never reviews the code, review it yourself before use. Discovered via skills.sh.
 
 - Listing: https://theskillharbor.com/products/earthtojake-text-to-cad-sdf
 - Fiche en français: https://theskillharbor.com/fr/products/earthtojake-text-to-cad-sdf

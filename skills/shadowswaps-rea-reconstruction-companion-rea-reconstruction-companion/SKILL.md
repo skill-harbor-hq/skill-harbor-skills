@@ -6,7 +6,7 @@ description: "Companion to reverse-engineer-anything (REA): turn a naturally sta
 
 # REA-Reconstruction-Companion
 
-Companion to reverse-engineer-anything (REA): turn a naturally stated target — a whole app, a feature, a function, an interface or a file format — into an evidence-backed specification and, only on explicit request, a validated reconstruction, with one shared evidence ledger, observed/inferred/unknown separation, and quality and performance assessment scaled to the selected scope. Requires REA, installed separately; it supplies no analysis engine of its own.
+Companion to reverse-engineer-anything (REA): turn a naturally stated target — a whole app, a feature, a function, an interface or a file format — into an evidence-backed specification and, only on explicit request, a validated reconstruction, with one shared evidence ledger, observed/inferred/unknown separation, and quality and performance assessment scaled to the selected scope. Requires REA, installed separately; it supplies no analysis engine of its own. Updated October 22, 2026: seven new contract references (date and locale, numeric quantities, search and ordering, history and destructive effects, asynchronous results, settings and preferences, unsaved changes and navigation) plus responsive-evidence guidance; the three scripts are byte-identical, and no service, endpoint or data flow was added.
 
 - Listing: https://theskillharbor.com/products/shadowswaps-rea-reconstruction-companion-rea-reconstruction-companion
 - Fiche en français: https://theskillharbor.com/fr/products/shadowswaps-rea-reconstruction-companion-rea-reconstruction-companion
