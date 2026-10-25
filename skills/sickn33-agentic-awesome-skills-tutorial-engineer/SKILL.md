@@ -6,7 +6,7 @@ description: "Turn code and features into structured, hands-on tutorials with pe
 
 # Tutorial Engineer
 
-Honest caveats: a teaching framework, not a code generator — it structures learning content around your existing code; not for API reference docs or marketing copy. Skill Harbor never reviews the code, review it yourself before use. Discovered via skills.sh.
+Honest caveats: a teaching framework, not a code generator — it structures learning content around your existing code; it does not claim retention percentages or speed gains; not for API reference docs or marketing copy. Skill Harbor never reviews the code, review it yourself before use. Discovered via skills.sh.
 
 - Listing: https://theskillharbor.com/products/sickn33-agentic-awesome-skills-tutorial-engineer
 - Fiche en français: https://theskillharbor.com/fr/products/sickn33-agentic-awesome-skills-tutorial-engineer
