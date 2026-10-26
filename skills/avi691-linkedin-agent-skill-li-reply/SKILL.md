@@ -4,7 +4,7 @@ name: avi691-linkedin-agent-skill-li-reply
 description: "Triage and draft replies to the comments under your own LinkedIn posts: comments you paste in are..."
 ---
 
-# li-reply
+# LinkedIn Comment Replies
 
 MIT-licensed. Skill Harbor never reviews the code, review it yourself before use.
 

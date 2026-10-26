@@ -4,7 +4,7 @@ name: avi691-linkedin-agent-skill-li-inbox
 description: "Triage a pasted LinkedIn inbox into five buckets — LEAD, RECRUITER, PEER, ASK and SPAM — with the..."
 ---
 
-# li-inbox
+# LinkedIn Inbox Triage
 
 MIT-licensed. Skill Harbor never reviews the code, review it yourself before use.
 

@@ -4,7 +4,7 @@ name: avi691-linkedin-agent-skill-li-profile
 description: "Score a LinkedIn profile out of 100 against a bundled 12-part rubric (headline, about, featured..."
 ---
 
-# li-profile
+# LinkedIn Profile Scorer
 
 MIT-licensed. Skill Harbor never reviews the code, review it yourself before use.
 
