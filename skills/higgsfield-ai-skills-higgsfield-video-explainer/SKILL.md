@@ -1,14 +1,13 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: higgsfield-ai-skills-higgsfield-video-explainer
-description: "Build non-photoreal narrated explainer videos from ordered 10-second blocks — voice, visuals..."
+description: "Compatibility entry for the former video explainer skill — redirects to the faceless-video..."
 ---
 
-# Higgsfield video explainer: narrated explainer videos from 10s blocks
+# Higgsfield video explainer (compatibility entry)
 
-⚠️ Security warning: the official install path pipes a remote script into your shell (`curl -fsSL … | sh`) — review the install script first, or install another way.
-💳 Paid API required: this connector needs a paid third-party API — the listing is free, but usage is billed. See Prerequisites for costs.
-Curated by Skill Harbor — the official Higgsfield workflow for building a complete non-photoreal narrated explainer or story video from ordered 10-second blocks: lock one visual style key, write one narration line and one matching visual prompt per block, generate every voice take first (Seed Audio), every clip second (Gemini Omni), then assemble server-side — with live CMS presets, style references, mascot/faceless modes, two aspect ratios and optional burned subtitles. By @higgsfield-ai, listed here with credit to its creator. Honest caveats: official company skill — non-photoreal narrated explainers only, NOT for photoreal films, ads/UGC, talking heads, podcasts or one-off clips; Higgsfield generation is billed per job (credits required — no usable free tier) plus Gemini Omni voice/video costs; the two-turn choice collection is slow by design — never merge the phases. Discovered via skills.sh. Skill Harbor never reviews the code, review it yourself before use.
+Compatibility entry only — this file generates nothing on its own.
+Curated by Skill Harbor — the former Higgsfield video explainer skill, now a compatibility entry (version 0.14.0): it applies only when you explicitly invoke higgsfield-video-explainer or continue its existing workflow, and it redirects to the higgsfield-faceless-video skill's illustrated explainer workflow, keeping your topic, source files, duration, language and aspect ratio. It is NOT for new generic explainer requests, ads, single clips, or unrelated video edits, and it does not use explainer_video or video_explainer. By @higgsfield-ai, listed here with credit to its creator. Honest caveats: if higgsfield-faceless-video is not installed, update or install the current Higgsfield skills package before generating any assets; generation through the target skill is billed per job (credits required). Skill Harbor never reviews the code, review it yourself before use.
 
 - Listing: https://theskillharbor.com/products/higgsfield-ai-skills-higgsfield-video-explainer
 - Fiche en français: https://theskillharbor.com/fr/products/higgsfield-ai-skills-higgsfield-video-explainer
