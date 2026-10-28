@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: xianyu110-ecommerce-image-skills-ecommerce-listing-suite
-description: "Orchestrate a complete, platform-ready ecommerce image set for one product: confirm the product..."
+description: "Orchestrate a complete, platform-ready ecommerce image set for one product"
 ---
 
 # Ecommerce Listing Suite

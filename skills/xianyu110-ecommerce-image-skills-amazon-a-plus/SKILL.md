@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: xianyu110-ecommerce-image-skills-amazon-a-plus
-description: "Plan and generate a complete, visually consistent Amazon A+ Content / Premium A+ page: a product..."
+description: "Plan and generate a complete, visually consistent Amazon A+ page"
 ---
 
 # Amazon A+

@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: chenxingji-innovate-cheatcode-healthcare-spec-section
-description: "Write the regulatory, privacy and safety section of a PRD, BRD or feature spec for a healthcare..."
+description: "Write the regulatory, privacy and safety section of a healthcare product spec"
 ---
 
 # Healthcare Spec Section

@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: xianyu110-ecommerce-image-skills-lifestyle-scene
-description: "Place the exact product into a believable lifestyle or in-use scene (kitchen, bathroom, desk..."
+description: "Place the exact product into a believable lifestyle or in-use scene"
 ---
 
 # Lifestyle Scene

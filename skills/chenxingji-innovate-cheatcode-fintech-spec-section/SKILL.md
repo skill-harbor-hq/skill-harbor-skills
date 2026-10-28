@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: chenxingji-innovate-cheatcode-fintech-spec-section
-description: "Write the regulatory, risk and compliance section of a PRD, BRD or feature spec for a money-moving..."
+description: "Write the regulatory, risk and compliance section of a fintech product spec"
 ---
 
 # Fintech Spec Section

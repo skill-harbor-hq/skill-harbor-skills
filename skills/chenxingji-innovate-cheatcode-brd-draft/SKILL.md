@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: chenxingji-innovate-cheatcode-brd-draft
-description: "Draft a business requirements document (BRD) from workshop notes, interview transcripts, emails and..."
+description: "Draft a complete business requirements document from workshop notes and existing documents"
 ---
 
 # BRD Draft

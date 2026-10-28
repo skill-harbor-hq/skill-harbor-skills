@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: survivre-au-comte-olaf
-description: "Échappe au comte Olaf et survis avec les orphelins Baudelaire."
+description: "Escape Count Olaf and survive with the Baudelaire orphans."
 ---
 
 # Survivre au comte Olaf

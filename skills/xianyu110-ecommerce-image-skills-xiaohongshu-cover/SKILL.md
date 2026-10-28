@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: xianyu110-ecommerce-image-skills-xiaohongshu-cover
-description: "Create Xiaohongshu (RED) note covers and first images that stop the scroll: a product identity lock..."
+description: "Create Xiaohongshu note covers and first images that stop the scroll"
 ---
 
 # Xiaohongshu Cover

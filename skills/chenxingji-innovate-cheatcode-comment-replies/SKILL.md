@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: chenxingji-innovate-cheatcode-comment-replies
-description: "Draft replies to open comments on a spec, PRD or design doc (Confluence, Notion, Google Docs, or..."
+description: "Draft grounded replies to open comments on specs and docs, staged for author approval"
 ---
 
 # Comment Replies

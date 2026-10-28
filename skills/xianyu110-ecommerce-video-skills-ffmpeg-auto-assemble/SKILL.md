@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: xianyu110-ecommerce-video-skills-ffmpeg-auto-assemble
-description: "Assemble a finished ecommerce short video from a storyboard.json in one local ffmpeg pipeline..."
+description: "Assemble a finished ecommerce short video from a storyboard in one ffmpeg pipeline"
 ---
 
 # FFmpeg Auto-Assemble

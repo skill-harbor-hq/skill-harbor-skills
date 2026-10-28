@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: xianyu110-ecommerce-video-skills-hook-3s-script
-description: "Write the first-3-seconds opening for an ecommerce short video: 6–10 versions across 9 hook..."
+description: "Write the first-3-seconds opening for an ecommerce short video"
 ---
 
 # 3-Second Hook Script

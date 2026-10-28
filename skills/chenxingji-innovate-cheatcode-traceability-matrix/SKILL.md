@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: chenxingji-innovate-cheatcode-traceability-matrix
-description: "Build or update a requirements traceability matrix (RTM) as a CSV or spreadsheet that links..."
+description: "Build a requirements traceability matrix linking objectives, requirements, tests and status"
 ---
 
 # Traceability Matrix

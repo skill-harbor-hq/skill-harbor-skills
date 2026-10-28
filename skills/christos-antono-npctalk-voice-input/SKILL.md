@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: christos-antono-npctalk-voice-input
-description: "Let the player talk to NPCs out loud: an always-on open mic detects speech against the room's noise..."
+description: "Let players talk to NPCs out loud with an always-on open mic"
 ---
 
 # voice-input

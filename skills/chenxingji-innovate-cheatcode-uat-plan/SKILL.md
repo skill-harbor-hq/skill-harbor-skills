@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: chenxingji-innovate-cheatcode-uat-plan
-description: "Plan user acceptance testing and write business-facing UAT scripts from requirements or acceptance..."
+description: "Plan user acceptance testing and write business-facing UAT scripts from requirements"
 ---
 
 # UAT Plan

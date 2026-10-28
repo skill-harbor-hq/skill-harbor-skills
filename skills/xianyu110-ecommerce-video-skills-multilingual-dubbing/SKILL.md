@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: xianyu110-ecommerce-video-skills-multilingual-dubbing
-description: "Localise a finished Chinese ecommerce product video into other-language versions from the same..."
+description: "Localise a finished Chinese ecommerce video into other-language versions"
 ---
 
 # Multilingual Dubbing

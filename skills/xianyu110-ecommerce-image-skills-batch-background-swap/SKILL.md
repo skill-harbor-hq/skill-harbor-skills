@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: xianyu110-ecommerce-image-skills-batch-background-swap
-description: "Batch-replace backgrounds or recolour SKU variants across a whole folder of product photos while..."
+description: "Batch-replace backgrounds or recolour SKU variants across product photos"
 ---
 
 # Batch Background Swap

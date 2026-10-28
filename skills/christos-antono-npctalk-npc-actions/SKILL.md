@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: christos-antono-npctalk-npc-actions
-description: "Make NPCs physically react to a conversation and follow spoken orders: TypeSafe's Jev returns a..."
+description: "Make NPCs physically react to conversation and follow spoken orders"
 ---
 
 # npc-actions

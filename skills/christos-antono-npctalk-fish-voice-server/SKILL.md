@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: christos-antono-npctalk-fish-voice-server
-description: "Host Fish Audio's open-weights voice models (Drama 3 and S2 Pro) on a serverless GPU (Modal, or..."
+description: "Host Fish Audio voice models behind one small HTTP API your game can call"
 ---
 
 # Fish Voice Server

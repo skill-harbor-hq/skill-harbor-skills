@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: christos-antono-npctalk-make-npcs-talk
-description: "Make NPCs in a game talk back: the player speaks or types, the NPC answers in character, in a..."
+description: "Make game NPCs talk back in a cloned voice, in character, about 1–2 seconds later"
 ---
 
 # Make NPCs Talk

@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: xianyu110-ecommerce-video-skills-subtitles-and-text-effects
-description: "Generate subtitles and decorative text effects for an ecommerce short video from a timing JSON of..."
+description: "Generate subtitles and decorative text effects for an ecommerce short video"
 ---
 
 # Subtitles & Text Effects

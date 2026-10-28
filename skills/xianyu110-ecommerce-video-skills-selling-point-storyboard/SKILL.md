@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: xianyu110-ecommerce-video-skills-selling-point-storyboard
-description: "Turn a product's real selling points into a shot-by-shot storyboard for a 15, 30 or 60 second..."
+description: "Turn real selling points into a shot-by-shot storyboard for an ecommerce short video"
 ---
 
 # Selling-Point Storyboard

@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: xianyu110-ecommerce-image-skills-sale-banner
-description: "Design promotional sale banners and store hero images for Taobao/Tmall (Double 11, 618, Chinese New..."
+description: "Design promotional sale banners and store hero images for marketplaces"
 ---
 
 # Sale Banner

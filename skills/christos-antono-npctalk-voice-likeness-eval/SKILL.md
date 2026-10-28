@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: christos-antono-npctalk-voice-likeness-eval
-description: "Measure how much a cloned voice sounds like the real character, and whether a change really helped..."
+description: "Measure how much a cloned voice sounds like the real character"
 ---
 
 # voice-likeness-eval

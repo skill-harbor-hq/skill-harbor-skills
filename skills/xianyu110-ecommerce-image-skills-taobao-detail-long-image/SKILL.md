@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: xianyu110-ecommerce-image-skills-taobao-detail-long-image
-description: "Plan and generate a complete Taobao / Tmall / Pinduoduo / JD product detail page (详情页) as one..."
+description: "Plan and generate a complete Taobao detail page as one long image"
 ---
 
 # Taobao Detail Long Image

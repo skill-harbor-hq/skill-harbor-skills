@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: xianyu110-ecommerce-video-skills-image-to-video-shots
-description: "Turn one to six static product images into moving 3–6-second video shots: a verbatim PRODUCT LOCK..."
+description: "Turn static product images into moving 3–6-second video shots"
 ---
 
 # Image to Video Shots

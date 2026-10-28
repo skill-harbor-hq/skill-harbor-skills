@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: xianyu110-ecommerce-video-skills-ai-voiceover-edge-tts
-description: "Turn an ecommerce voice-over script into per-line AI audio with Microsoft's free Edge online voices..."
+description: "Turn an ecommerce voice-over script into per-line AI audio with Edge voices"
 ---
 
 # AI Voiceover (Edge TTS)

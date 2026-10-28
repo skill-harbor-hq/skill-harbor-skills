@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: xianyu110-ecommerce-image-skills-selling-point-infographic
-description: "Turn verified product facts into selling-point infographics — one benefit per image, icons, callout..."
+description: "Turn verified product facts into selling-point infographics, one benefit per image"
 ---
 
 # Selling-Point Infographic

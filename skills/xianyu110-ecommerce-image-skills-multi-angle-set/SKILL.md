@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: xianyu110-ecommerce-image-skills-multi-angle-set
-description: "Generate a consistent multi-angle product image set — 6 to 9 matching angles (front, 45°, side..."
+description: "Generate a consistent multi-angle product image set with identical lighting"
 ---
 
 # Multi-Angle Set

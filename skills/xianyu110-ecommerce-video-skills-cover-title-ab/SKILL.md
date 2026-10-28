@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: xianyu110-ecommerce-video-skills-cover-title-ab
-description: "Generate A/B variants for an ecommerce short-video cover and title: 3–4 covers in 3:4 or 9:16 with..."
+description: "Generate A/B variants for an ecommerce short-video cover and title"
 ---
 
 # Cover & Title A/B

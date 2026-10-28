@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: xianyu110-ecommerce-video-skills-unboxing-comparison-review
-description: "Reusable templates for unboxing and comparison-review ecommerce videos: a 7-segment unboxing..."
+description: "Reusable templates for unboxing and comparison-review ecommerce videos"
 ---
 
 # Unboxing & Comparison Review

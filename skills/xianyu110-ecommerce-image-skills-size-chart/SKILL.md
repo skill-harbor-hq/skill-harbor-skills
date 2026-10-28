@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: xianyu110-ecommerce-image-skills-size-chart
-description: "Create size, dimension and specification chart images that cut returns from wrong size..."
+description: "Create size and specification chart images that cut returns from wrong sizes"
 ---
 
 # Size Chart

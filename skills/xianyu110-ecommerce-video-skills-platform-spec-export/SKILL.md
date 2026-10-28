@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: xianyu110-ecommerce-video-skills-platform-spec-export
-description: "Re-encode one master ecommerce video into platform-ready files in a single run: nine presets for..."
+description: "Re-encode one master ecommerce video into platform-ready files in a single run"
 ---
 
 # Platform Spec Export

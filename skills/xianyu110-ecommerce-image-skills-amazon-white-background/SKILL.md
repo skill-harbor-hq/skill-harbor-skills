@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: xianyu110-ecommerce-image-skills-amazon-white-background
-description: "Create an Amazon-compliant white-background main image (pure #FFFFFF, product filling at least 85%..."
+description: "Create an Amazon-compliant white-background main image from a product photo"
 ---
 
 # Amazon White Background

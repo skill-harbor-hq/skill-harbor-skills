@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: chenxingji-innovate-cheatcode-requirements-lint
-description: "Review a requirements document, BRD, FRD, spec or backlog of user stories for the defects reviewers..."
+description: "Lint requirements docs for ambiguity, untestable statements and missing edge cases"
 ---
 
 # Requirements Lint

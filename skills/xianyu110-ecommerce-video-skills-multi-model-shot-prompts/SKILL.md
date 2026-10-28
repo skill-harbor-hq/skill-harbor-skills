@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: xianyu110-ecommerce-video-skills-multi-model-shot-prompts
-description: "Rewrite one ecommerce shot list / storyboard into video-generation prompts tailored to different..."
+description: "Rewrite an ecommerce shot list into prompts tailored to each video model"
 ---
 
 # Multi-Model Shot Prompts

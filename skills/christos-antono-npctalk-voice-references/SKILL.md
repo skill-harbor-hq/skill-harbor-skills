@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: christos-antono-npctalk-voice-references
-description: "Make the reference clips a zero-shot voice cloner needs for each character, from recordings you..."
+description: "Build the reference clips a zero-shot voice cloner needs for each character"
 ---
 
 # voice-references

@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: xianyu110-ecommerce-image-skills-model-try-on
-description: "Dress a model in a real garment or accessory from a flat-lay, hanger or mannequin photo (on-model /..."
+description: "Dress a model in a real garment from a flat-lay or mannequin photo"
 ---
 
 # Model Try-On

@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: christos-antono-npctalk-npc-dialogue
-description: "Write what NPCs say with an LLM so they sound like themselves and like the game: persona files, a..."
+description: "Write NPC dialogue with an LLM so characters sound like themselves"
 ---
 
 # npc-dialogue

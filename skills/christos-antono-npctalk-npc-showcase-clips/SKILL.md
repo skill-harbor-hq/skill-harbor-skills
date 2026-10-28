@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: christos-antono-npctalk-npc-showcase-clips
-description: "Record short clips of NPC conversations that look like real gameplay, ready to post: script an..."
+description: "Record short NPC conversation clips that look like real gameplay, ready to post"
 ---
 
 # npc-showcase-clips

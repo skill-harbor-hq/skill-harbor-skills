@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: chenxingji-innovate-cheatcode-acceptance-criteria
-description: "Write acceptance criteria for user stories or requirements as Gherkin scenarios (Given, When, Then)..."
+description: "Write acceptance criteria as Gherkin or EARS scenarios, covering every business rule"
 ---
 
 # Acceptance Criteria

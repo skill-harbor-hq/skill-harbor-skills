@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: chenxingji-innovate-cheatcode-release-notes-house-voice
-description: "Write customer-facing release notes from commits, merged pull requests, closed tickets or a..."
+description: "Write customer-facing release notes in your team's own house voice"
 ---
 
 # Release Notes House Voice

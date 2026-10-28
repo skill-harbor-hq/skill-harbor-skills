@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: xianyu110-ecommerce-video-skills-live-stream-clips
-description: "Cut a long ecommerce livestream recording into a batch of 15–60 second 9:16 vertical clips: pick..."
+description: "Cut a long ecommerce livestream into 15–60 second vertical clips"
 ---
 
 # Live-Stream Clips
