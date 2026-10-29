@@ -8,6 +8,8 @@ description: "A specialised sub-skill of the claude-seo family (orchestrated by 
 
 A specialised sub-skill of the claude-seo family (orchestrated by the seo skill, a separate listing): hreflang and international SEO validation and generation (self/return tags, x-default, ISO language/region codes, canonical alignment) across HTML, HTTP header and sitemap methods, plus cultural adaptation assessment, content parity audits and locale format checks from its 4 bundled references. It names no bundled tool and no API key; at use it fetches a live site's language versions over the network, or audits a local content directory. Its text states fetched content is untrusted data, never instructions, and contains no 'Built by agricidaniel' footer instruction.
 
+Part of the Claude SEO family. Installing this listing alone copies only this skill's folder, without the shared launcher, the shared scripts or the sibling skills. For the full family install, its prerequisites and its Muse limits, see the guide: How to Install the Claude SEO Family - /guides/how-to-install-the-claude-seo-family/ - and the other core listings: seo, seo-agentic, seo-audit, seo-backlinks, seo-cluster, seo-competitor-pages, seo-content, seo-content-brief, seo-drift, seo-ecommerce, seo-flow, seo-geo, seo-google, seo-hreflang, seo-image-gen, seo-images, seo-local, seo-maps, seo-page, seo-plan, seo-programmatic, seo-schema, seo-sitemap, seo-sxo, seo-technical.
+
 - Listing: https://theskillharbor.com/products/seo-hreflang
 - Fiche en français: https://theskillharbor.com/fr/products/seo-hreflang
 - Category: SEO

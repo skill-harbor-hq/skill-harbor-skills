@@ -8,6 +8,8 @@ description: "Profound extension skill of the claude-seo family: LLM citation tr
 
 MIT licensed. Skill Harbor never reviews the code, review it yourself before use.
 
+A Claude SEO extension, not part of the core. Installing this listing alone copies only this extension's folder, and it needs its own install and its own service API key, as stated on this listing. It only works when the core family and its extension are both installed and credentialed. For the full family install, its prerequisites and its Muse limits, see the guide: How to Install the Claude SEO Family - /guides/how-to-install-the-claude-seo-family/
+
 - Listing: https://theskillharbor.com/products/seo-profound
 - Fiche en français: https://theskillharbor.com/fr/products/seo-profound
 - Category: SEO
