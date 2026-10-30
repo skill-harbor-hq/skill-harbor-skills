@@ -1,12 +1,12 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: vinayaklatthe-microsoft-security-skills-entra-permissions
-description: "Discover and right-size cloud permissions — Permission Creep Index, activity-based least-privilege..."
+description: "Multicloud CIEM after Entra Permissions Management retired — Defender CSPM recommendations, attack..."
 ---
 
-# Entra Permissions Management (CIEM)
+# Multicloud CIEM (after Entra Permissions Management)
 
-Honest caveats: a paid Entra service collecting entitlement and activity data per cloud via read-only roles; the skill advises a 90-day activity baseline before any right-sizing — do not act on a week of data; Azure-only RBAC choices belong to a different skill (the skill says so). Skill Harbor never reviews the code, review it yourself before use. Discovered via skills.sh.
+Honest caveats: Defender CSPM is a paid plan and Delinea PCCE is a separate paid product; connecting clouds needs Security Admin scope; keep at least 90 days of observed activity before aggressive permission removal; do not design new work on the retired Entra Permissions Management service. Skill Harbor never reviews the code, review it yourself before use.
 
 - Listing: https://theskillharbor.com/products/vinayaklatthe-microsoft-security-skills-entra-permissions-management
 - Fiche en français: https://theskillharbor.com/fr/products/vinayaklatthe-microsoft-security-skills-entra-permissions-management
