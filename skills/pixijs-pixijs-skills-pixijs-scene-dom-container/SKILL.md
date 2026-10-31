@@ -6,7 +6,7 @@ description: "Overlay HTML elements (inputs, iframes, videos) on a PixiJS v8 can
 
 # PixiJS DOMContainer: HTML overlays on the canvas
 
-Honest caveats: **marked EXPERIMENTAL in PixiJS v8 — the API may change between minor releases**; DOM overlays always render above canvas content (no interleaving with draw calls); `tint`/`filters`/`mask`/`blendMode` have no visual effect on DOM elements — style with CSS; not available in Web Workers; a leaf — never nest PixiJS children inside it; MIT-licensed. Skill Harbor never reviews the code, review it yourself before use. Discovered via skills.sh.
+Honest caveats: marked EXPERIMENTAL in PixiJS v8 — the API may change between minor releases; DOM overlays always render above canvas content (no interleaving with draw calls); `tint`/`filters`/`mask`/`blendMode` have no visual effect on DOM elements — style with CSS; not available in Web Workers; a leaf — never nest PixiJS children inside it; MIT-licensed. Skill Harbor never reviews the code, review it yourself before use. Discovered via skills.sh.
 
 - Listing: https://theskillharbor.com/products/pixijs-pixijs-skills-pixijs-scene-dom-container
 - Fiche en français: https://theskillharbor.com/fr/products/pixijs-pixijs-skills-pixijs-scene-dom-container

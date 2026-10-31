@@ -6,7 +6,7 @@ description: "HNSW vector search with RaBitQ quantization via the Ruflo MCP plug
 
 # Ruflo Vector Search
 
-Honest caveats: **requires the Ruflo MCP plugin installed and configured in your agent** — the skill is an instruction layer over the plugin's `mcp__plugin_ruflo-core_ruflo__*` tools and does nothing without it; pick the right path for your scale (corpus search vs hot-path router — they are not interchangeable). Skill Harbor never reviews the code, review it yourself before use. Discovered via skills.sh.
+Honest caveats: requires the Ruflo MCP plugin installed and configured in your agent — the skill is an instruction layer over the plugin's `mcp__plugin_ruflo-core_ruflo__*` tools and does nothing without it; pick the right path for your scale (corpus search vs hot-path router — they are not interchangeable). Skill Harbor never reviews the code, review it yourself before use. Discovered via skills.sh.
 
 - Listing: https://theskillharbor.com/products/ruvnet-ruflo-vector-search
 - Fiche en français: https://theskillharbor.com/fr/products/ruvnet-ruflo-vector-search

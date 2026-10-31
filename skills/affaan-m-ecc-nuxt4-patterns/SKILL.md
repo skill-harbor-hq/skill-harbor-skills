@@ -6,7 +6,7 @@ description: "Hydration-safe rendering, routeRules, lazy hydration and useFetch/
 
 # Nuxt 4 patterns: hydration safety, route rules, SSR data
 
-Honest caveats: **the skill is written in Japanese** (lives under `docs/ja-JP/`); written against current Nuxt 4 — framework defaults can drift, so re-verify on real work; MIT-licensed. Skill Harbor never reviews the code, review it yourself before use. Discovered via skills.sh.
+Honest caveats: the skill is written in Japanese (lives under `docs/ja-JP/`); written against current Nuxt 4 — framework defaults can drift, so re-verify on real work; MIT-licensed. Skill Harbor never reviews the code, review it yourself before use. Discovered via skills.sh.
 
 - Listing: https://theskillharbor.com/products/affaan-m-ecc-nuxt4-patterns
 - Fiche en français: https://theskillharbor.com/fr/products/affaan-m-ecc-nuxt4-patterns

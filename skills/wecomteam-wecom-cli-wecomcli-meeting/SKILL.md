@@ -6,7 +6,7 @@ description: "Create, search, update and cancel WeCom online meetings, fetch tra
 
 # WeCom meeting manager
 
-Honest caveats: **the skill is written for Chinese-speaking users** (Chinese instructions, Chinese examples and fixed Chinese disambiguation phrasing that must be used verbatim); requires a logged-in WeCom enterprise account and the `wecom-cli` binary; recurring meetings, RSVP replies, and meetings longer than 24h are unsupported; meeting details intentionally hide the meeting code and join link from outputs for privacy. Skill Harbor never reviews the code, review it yourself before use. Discovered via skills.sh.
+Honest caveats: the skill is written for Chinese-speaking users (Chinese instructions, Chinese examples and fixed Chinese disambiguation phrasing that must be used verbatim); requires a logged-in WeCom enterprise account and the `wecom-cli` binary; recurring meetings, RSVP replies, and meetings longer than 24h are unsupported; meeting details intentionally hide the meeting code and join link from outputs for privacy. Skill Harbor never reviews the code, review it yourself before use. Discovered via skills.sh.
 
 - Listing: https://theskillharbor.com/products/wecomteam-wecom-cli-wecomcli-meeting
 - Fiche en français: https://theskillharbor.com/fr/products/wecomteam-wecom-cli-wecomcli-meeting

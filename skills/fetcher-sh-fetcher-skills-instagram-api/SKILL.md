@@ -6,7 +6,7 @@ description: "Pull Instagram profiles, posts, reels, stories, followers, comment
 
 # Instagram data API via fetcher.sh
 
-Honest caveats: **unofficial Instagram API alternative** — this is not Meta's official Graph API; every response is `{status, message, data}` mirroring the HTTP status; no rate limits stated. MIT licensed. Skill Harbor never reviews the code, review it yourself before use. Discovered via skills.sh.
+Honest caveats: unofficial Instagram API alternative — this is not Meta's official Graph API; every response is `{status, message, data}` mirroring the HTTP status; no rate limits stated. MIT licensed. Skill Harbor never reviews the code, review it yourself before use. Discovered via skills.sh.
 
 - Listing: https://theskillharbor.com/products/fetcher-sh-fetcher-skills-instagram-api
 - Fiche en français: https://theskillharbor.com/fr/products/fetcher-sh-fetcher-skills-instagram-api

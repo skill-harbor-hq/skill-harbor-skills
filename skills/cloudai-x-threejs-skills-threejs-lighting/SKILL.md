@@ -6,7 +6,7 @@ description: "Set up Three.js lights, configure shadows, and add environment lig
 
 # Three.js lighting: light types, shadows, and IBL guide
 
-Curated by Skill Harbor — a short pointer to @cloudai-x's Three.js lighting reference: light types compared (ambient, hemisphere, directional, point, spot, RectAreaLight), shadow setup with bias tuning and optimization tips, light helpers, image-based environment lighting (HDR/CubeTexture, PMREM), light probes, ready-made lighting setups (three-point, outdoor daylight, indoor studio), and light animation patterns. Honest caveats: **no license declared in the repository — license unknown**, so this is a short fiche linking to the source, without reusing its content; assumes a working Three.js scene as a starting point. Skill Harbor never reviews the code, review it yourself before use. Discovered via skills.sh.
+Curated by Skill Harbor — a short pointer to @cloudai-x's Three.js lighting reference: light types compared (ambient, hemisphere, directional, point, spot, RectAreaLight), shadow setup with bias tuning and optimization tips, light helpers, image-based environment lighting (HDR/CubeTexture, PMREM), light probes, ready-made lighting setups (three-point, outdoor daylight, indoor studio), and light animation patterns. Honest caveats: no license declared in the repository — license unknown, so this is a short fiche linking to the source, without reusing its content; assumes a working Three.js scene as a starting point. Skill Harbor never reviews the code, review it yourself before use. Discovered via skills.sh.
 
 - Listing: https://theskillharbor.com/products/cloudai-x-threejs-skills-threejs-lighting
 - Fiche en français: https://theskillharbor.com/fr/products/cloudai-x-threejs-skills-threejs-lighting

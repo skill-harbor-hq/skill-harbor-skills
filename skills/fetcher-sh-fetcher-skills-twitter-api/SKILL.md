@@ -6,7 +6,7 @@ description: "Search tweets with X's advanced operators, resolve profiles, pull 
 
 # Twitter/X data API via fetcher.sh
 
-Honest caveats: **unofficial X API alternative** — this is not X's official API; every response is `{status, message, data}` mirroring the HTTP status; no rate limits stated. MIT licensed. Skill Harbor never reviews the code, review it yourself before use. Discovered via skills.sh.
+Honest caveats: unofficial X API alternative — this is not X's official API; every response is `{status, message, data}` mirroring the HTTP status; no rate limits stated. MIT licensed. Skill Harbor never reviews the code, review it yourself before use. Discovered via skills.sh.
 
 - Listing: https://theskillharbor.com/products/fetcher-sh-fetcher-skills-twitter-api
 - Fiche en français: https://theskillharbor.com/fr/products/fetcher-sh-fetcher-skills-twitter-api

@@ -10,9 +10,9 @@ Your Muse is smart, but it rents its brain by the token. This pack gives it a lo
 
 Three prompts, used in order:
 
-1. **Installer** — paste into your PC agent. It detects your hardware, installs llama.cpp, downloads a model sized for your VRAM, and starts an authenticated local server. Resumable after interruption, hardware-agnostic (NVIDIA / AMD / CPU), no manual troubleshooting.
-2. **Secure + Tunnel** — paste into your PC agent. Adds API-key authentication, then exposes the server through a stable, named Cloudflare tunnel (no port forwarding, no static IP, no router config). Survives reboots via Windows service or Startup folder.
-3. **Brain** — paste into your cloud Muse. It connects to the tunnel, verifies the API both ways, and delegates suitable work (drafting, summarizing, batch jobs) to your local model while keeping orchestration for itself.
+1. Installer — paste into your PC agent. It detects your hardware, installs llama.cpp, downloads a model sized for your VRAM, and starts an authenticated local server. Resumable after interruption, hardware-agnostic (NVIDIA / AMD / CPU), no manual troubleshooting.
+2. Secure + Tunnel — paste into your PC agent. Adds API-key authentication, then exposes the server through a stable, named Cloudflare tunnel (no port forwarding, no static IP, no router config). Survives reboots via Windows service or Startup folder.
+3. Brain — paste into your cloud Muse. It connects to the tunnel, verifies the API both ways, and delegates suitable work (drafting, summarizing, batch jobs) to your local model while keeping orchestration for itself.
 
 Battle-tested on real hardware (Ryzen 5 1600 + Radeon RX 580 8 GB, ~23-35 tokens/sec, full reboot cycle verified). Every hard lesson is baked in: the prompts detect hardware themselves, verify downloads by magic bytes, enforce auth before any exposure, and recover from interruptions — you never debug alone.
 

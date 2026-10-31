@@ -6,7 +6,7 @@ description: "Create Google Cloud Model Armor templates via the gws CLI — jail
 
 # gws CLI: create a Google Model Armor template
 
-Honest caveats: requires the `gws` binary on the PATH plus the `gws-shared` prerequisite skill (auth, global flags, security rules — run `gws generate-skills` if it is missing); this is a **write** command, so the agent must confirm with the user before executing; Apache-2.0-licensed. Skill Harbor never reviews the code, review it yourself before use. Discovered via skills.sh.
+Honest caveats: requires the `gws` binary on the PATH plus the `gws-shared` prerequisite skill (auth, global flags, security rules — run `gws generate-skills` if it is missing); this is a write command, so the agent must confirm with the user before executing; Apache-2.0-licensed. Skill Harbor never reviews the code, review it yourself before use. Discovered via skills.sh.
 
 - Listing: https://theskillharbor.com/products/googleworkspace-cli-gws-modelarmor-create-template
 - Fiche en français: https://theskillharbor.com/fr/products/googleworkspace-cli-gws-modelarmor-create-template

@@ -6,7 +6,7 @@ description: "KMP Compose patterns — single-state ViewModels, type-safe naviga
 
 # Compose Multiplatform patterns: state, navigation, performance
 
-Honest caveats: **the skill is written in Japanese** (lives under `docs/ja-JP/`); assumes Jetpack Compose familiarity; MIT-licensed. Skill Harbor never reviews the code, review it yourself before use. Discovered via skills.sh.
+Honest caveats: the skill is written in Japanese (lives under `docs/ja-JP/`); assumes Jetpack Compose familiarity; MIT-licensed. Skill Harbor never reviews the code, review it yourself before use. Discovered via skills.sh.
 
 - Listing: https://theskillharbor.com/products/affaan-m-ecc-compose-multiplatform-patterns
 - Fiche en français: https://theskillharbor.com/fr/products/affaan-m-ecc-compose-multiplatform-patterns

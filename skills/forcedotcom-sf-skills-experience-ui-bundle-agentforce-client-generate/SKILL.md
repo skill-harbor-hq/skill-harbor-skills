@@ -6,7 +6,7 @@ description: "Add, configure or restyle the Agentforce chat widget in React or A
 
 # Agentforce conversation client for UI Bundles
 
-Honest caveats: requires a Salesforce org with the agent, the sf CLI and npm; for local development you must add your dev port to Trusted Domains for Inline Frames and **remove it before deploying to production**; styling outside the token set is unsupported, by design. Apache-2.0 licensed. Skill Harbor never reviews the code, review it yourself before use. Discovered via skills.sh.
+Honest caveats: requires a Salesforce org with the agent, the sf CLI and npm; for local development you must add your dev port to Trusted Domains for Inline Frames and remove it before deploying to production; styling outside the token set is unsupported, by design. Apache-2.0 licensed. Skill Harbor never reviews the code, review it yourself before use. Discovered via skills.sh.
 
 - Listing: https://theskillharbor.com/products/forcedotcom-sf-skills-experience-ui-bundle-agentforce-client-generate
 - Fiche en français: https://theskillharbor.com/fr/products/forcedotcom-sf-skills-experience-ui-bundle-agentforce-client-generate
