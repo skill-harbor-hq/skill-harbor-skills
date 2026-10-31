@@ -13,7 +13,7 @@ Internet fax through Muse — currently in development. The planned service send
 - Category: Business
 - Price: Paid
 - Verification: unverified
-- Source repo: https://github.com/Telep-IO/muse-platform/tree/main/services/fax-send
+- Source repo: https://muse.telep.io/connectors/fax-send
 
 ## Install with Muse
 

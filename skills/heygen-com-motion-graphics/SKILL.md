@@ -13,7 +13,7 @@ description: "Design-led short motion graphics (kinetic type, logo stings, data-
 - Category: Video
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/heygen-com/hyperframes/blob/main/skills/motion-graphics/SKILL.md
+- Source repo: https://github.com/heygen-com/hyperframes/blob/a9823f719df9a18e1ed004bede9a138c8a9adfc5/skills/motion-graphics/SKILL.md
 
 ## Install with Muse
 

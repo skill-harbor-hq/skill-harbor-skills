@@ -13,7 +13,7 @@ Turn a PDF into real US mail. Muse drafts your letter from a PDF, addresses it, 
 - Category: Business
 - Price: Paid
 - Verification: unverified
-- Source repo: https://github.com/Telep-IO/muse-platform/tree/main/services/paper-send
+- Source repo: https://muse.telep.io/connectors/paper-send
 
 ## Install with Muse
 

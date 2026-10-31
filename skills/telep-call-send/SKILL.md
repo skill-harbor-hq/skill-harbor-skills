@@ -13,7 +13,7 @@ Voice calls through Muse — planned, not built yet. The announced pricing is $0
 - Category: Business
 - Price: Paid
 - Verification: unverified
-- Source repo: https://github.com/Telep-IO/muse-platform/tree/main/services/call-send
+- Source repo: https://muse.telep.io/connectors/call-send
 
 ## Install with Muse
 

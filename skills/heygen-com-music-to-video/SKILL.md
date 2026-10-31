@@ -13,7 +13,7 @@ Turn one music track into a complete beat-synced video — lyric video, slidesho
 - Category: Creativity
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/heygen-com/hyperframes/blob/main/skills/music-to-video/SKILL.md
+- Source repo: https://github.com/heygen-com/hyperframes/blob/a9823f719df9a18e1ed004bede9a138c8a9adfc5/skills/music-to-video/SKILL.md
 
 ## Install with Muse
 

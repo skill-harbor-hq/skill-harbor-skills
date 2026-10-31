@@ -13,7 +13,7 @@ This is reference knowledge for agents authoring video compositions — read bef
 - Category: Media
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/heygen-com/hyperframes/blob/main/skills/hyperframes-core/SKILL.md
+- Source repo: https://github.com/heygen-com/hyperframes/blob/a9823f719df9a18e1ed004bede9a138c8a9adfc5/skills/hyperframes-core/SKILL.md
 
 ## Install with Muse
 

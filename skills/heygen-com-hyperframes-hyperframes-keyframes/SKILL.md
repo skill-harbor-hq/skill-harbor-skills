@@ -13,7 +13,7 @@ Curated by Skill Harbor — a motion-design skill by @heygen-com for the HyperFr
 - Category: Video
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/heygen-com/hyperframes/blob/main/skills/hyperframes-keyframes/SKILL.md
+- Source repo: https://github.com/heygen-com/hyperframes/blob/a9823f719df9a18e1ed004bede9a138c8a9adfc5/skills/hyperframes-keyframes/SKILL.md
 
 ## Install with Muse
 

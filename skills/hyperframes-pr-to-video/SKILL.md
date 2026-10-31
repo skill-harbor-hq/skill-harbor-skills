@@ -13,7 +13,7 @@ Honest caveats: heavyweight by design — a multi-step gated workflow, not a one
 - Category: AI
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/heygen-com/hyperframes/blob/main/skills/pr-to-video/SKILL.md
+- Source repo: https://github.com/heygen-com/hyperframes/blob/a9823f719df9a18e1ed004bede9a138c8a9adfc5/skills/pr-to-video/SKILL.md
 
 ## Install with Muse
 

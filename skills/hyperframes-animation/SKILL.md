@@ -13,7 +13,7 @@ Companion to hyperframes-core — the two together give an agent the full video-
 - Category: Media
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/heygen-com/hyperframes/blob/main/skills/hyperframes-animation/SKILL.md
+- Source repo: https://github.com/heygen-com/hyperframes/blob/a9823f719df9a18e1ed004bede9a138c8a9adfc5/skills/hyperframes-animation/SKILL.md
 
 ## Install with Muse
 

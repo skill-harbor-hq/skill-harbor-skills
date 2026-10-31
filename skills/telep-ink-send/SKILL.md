@@ -13,7 +13,7 @@ Handwritten-style letters through Muse — planned, not built yet. The announced
 - Category: Business
 - Price: Paid
 - Verification: unverified
-- Source repo: https://github.com/Telep-IO/muse-platform/tree/main/services/ink-send
+- Source repo: https://muse.telep.io/connectors/ink-send
 
 ## Install with Muse
 

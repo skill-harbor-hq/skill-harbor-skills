@@ -13,7 +13,7 @@ Requires the `hyperframes` CLI via npx; media features may go through a HeyGen a
 - Category: Media
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/heygen-com/hyperframes/blob/main/skills/general-video/SKILL.md
+- Source repo: https://github.com/heygen-com/hyperframes/blob/a9823f719df9a18e1ed004bede9a138c8a9adfc5/skills/general-video/SKILL.md
 
 ## Install with Muse
 

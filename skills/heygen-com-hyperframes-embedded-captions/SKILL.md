@@ -13,7 +13,7 @@ Curated by Skill Harbor — @heygen-com's HyperFrames embedded-captions skill: a
 - Category: Video
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/heygen-com/hyperframes/blob/main/skills/embedded-captions/SKILL.md
+- Source repo: https://github.com/heygen-com/hyperframes/blob/a9823f719df9a18e1ed004bede9a138c8a9adfc5/skills/embedded-captions/SKILL.md
 
 ## Install with Muse
 

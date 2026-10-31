@@ -13,7 +13,7 @@ USPS shipping labels from inside Muse. Describe the sender, recipient, and parce
 - Category: Business
 - Price: Paid
 - Verification: unverified
-- Source repo: https://github.com/Telep-IO/muse-platform/tree/main/services/ship-label
+- Source repo: https://muse.telep.io/connectors/ship-label
 
 ## Install with Muse
 

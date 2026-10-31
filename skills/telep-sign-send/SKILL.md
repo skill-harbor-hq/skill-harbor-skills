@@ -13,7 +13,7 @@ Electronic signatures through Muse — currently in development. The planned ser
 - Category: Business
 - Price: Paid
 - Verification: unverified
-- Source repo: https://github.com/Telep-IO/muse-platform/tree/main/services/sign-send
+- Source repo: https://muse.telep.io/connectors/sign-send
 
 ## Install with Muse
 

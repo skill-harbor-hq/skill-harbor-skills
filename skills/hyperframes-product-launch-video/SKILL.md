@@ -13,7 +13,7 @@ Requires the `hyperframes` CLI via npx; voice and music features go through a He
 - Category: Media
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/heygen-com/hyperframes/blob/main/skills/product-launch-video/SKILL.md
+- Source repo: https://github.com/heygen-com/hyperframes/blob/a9823f719df9a18e1ed004bede9a138c8a9adfc5/skills/product-launch-video/SKILL.md
 
 ## Install with Muse
 

@@ -13,7 +13,7 @@ Package tracking for Muse, across multiple carriers. Give Muse a tracking number
 - Category: Business
 - Price: Paid
 - Verification: unverified
-- Source repo: https://github.com/Telep-IO/muse-platform/tree/main/connectors/shipsignal
+- Source repo: https://muse.telep.io/connectors/shipsignal
 
 ## Install with Muse
 

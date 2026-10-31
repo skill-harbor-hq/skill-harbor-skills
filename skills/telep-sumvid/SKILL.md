@@ -13,7 +13,7 @@ Video summaries for Muse. Ask about a YouTube video and Sumvid returns a concise
 - Category: Media
 - Price: Paid
 - Verification: unverified
-- Source repo: https://github.com/Telep-IO/muse-platform/tree/main/connectors/sumvid
+- Source repo: https://muse.telep.io/connectors/sumvid
 
 ## Install with Muse
 

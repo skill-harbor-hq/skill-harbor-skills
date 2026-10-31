@@ -13,7 +13,7 @@ Send digital gift cards and prepaid rewards through Muse. Pick the recipient, am
 - Category: Business
 - Price: Paid
 - Verification: unverified
-- Source repo: https://github.com/Telep-IO/muse-platform/tree/main/services/gift-send
+- Source repo: https://muse.telep.io/connectors/gift-send
 
 ## Install with Muse
 

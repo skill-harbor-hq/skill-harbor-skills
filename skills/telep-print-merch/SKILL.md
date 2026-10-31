@@ -13,7 +13,7 @@ Print-on-demand merch through Muse. Muse drafts your product — the live price 
 - Category: Business
 - Price: Paid
 - Verification: unverified
-- Source repo: https://github.com/Telep-IO/muse-platform/tree/main/services/print-merch
+- Source repo: https://muse.telep.io/connectors/print-merch
 
 ## Install with Muse
 

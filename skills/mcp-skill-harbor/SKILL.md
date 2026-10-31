@@ -12,7 +12,7 @@ How it works:
 
 1. Add one URL to your MCP client config: https://theskillharbor.com/mcp. No package to install, no API key, no account.
 2. Your assistant gets three tools:
-   - search_builds — search 1,800+ AI builds by keywords, in French or English. Same ranking as the site: relevance first, synonyms and singular/plural included.
+   - search_builds — search 2,810 AI builds by keywords, in French or English. Same ranking as the site: relevance first, synonyms and singular/plural included.
    - get_build — full details of one build: description, price, seller, verification status, repo link.
    - get_install — the installation prompt, ready to paste into Muse.
 3. Just ask: "find me a build that automates invoices" — your assistant searches, summarizes the best matches, and shows you the install prompt for the one you pick.

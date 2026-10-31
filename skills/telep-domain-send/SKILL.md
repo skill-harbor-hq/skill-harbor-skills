@@ -13,7 +13,7 @@ Domain registration through Muse — planned, not built yet. The announced prici
 - Category: Business
 - Price: Paid
 - Verification: unverified
-- Source repo: https://github.com/Telep-IO/muse-platform/tree/main/services/domain-send
+- Source repo: https://muse.telep.io/connectors/domain-send
 
 ## Install with Muse
 
