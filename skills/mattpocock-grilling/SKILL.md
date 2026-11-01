@@ -6,7 +6,7 @@ description: "Let Muse grill your plan relentlessly until every branch holds up.
 
 # Grilling Skill for Muse
 
-Say the word and Muse grills you relentlessly about a plan, decision, or idea: it maps the topic as a design tree, then asks you each round's open questions — numbered, with a recommended answer for each — recomputing the tree from your answers until every branch is settled and nothing was silently assumed. Pure chat protocol: no files, no tools, no prerequisites — just you answering the rounds honestly. Discovered via skills.sh. Skill Harbor never reviews the code, review it yourself before use. Not verified.
+Say the word and Muse grills you relentlessly (challenged, not cooked) about a plan, decision, or idea: it maps the topic as a design tree, then asks you each round's open questions — numbered, with a recommended answer for each — recomputing the tree from your answers until every branch is settled and nothing was silently assumed. Pure chat protocol: no files, no tools, no prerequisites — just you answering the rounds honestly. Discovered via skills.sh. Skill Harbor never reviews the code, review it yourself before use. Not verified.
 
 - Listing: https://theskillharbor.com/products/mattpocock-grilling
 - Fiche en français: https://theskillharbor.com/fr/products/mattpocock-grilling
