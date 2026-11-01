@@ -8,12 +8,12 @@ description: "Run your website's back office from chat."
 
 Stop opening your admin panel. Admin Bridge lets your Muse run your site's back office in plain conversation: it shows the moderation queue, approves or rejects submissions, publishes new listings, and keeps an action log — all through a secure token-protected API you add to your site in an afternoon.
 
-Sold by the founder of Skill Harbor — this purchase is a transaction with him personally, not with the Skill Harbor platform (which never processes payments).
+Offered free by the founder of Skill Harbor.
 
 - Listing: https://theskillharbor.com/products/admin-bridge
 - Fiche en français: https://theskillharbor.com/fr/products/admin-bridge
 - Category: Productivity
-- Price: Paid
+- Price: Free
 - Verification: verified
 - Source repo: n/a
 
