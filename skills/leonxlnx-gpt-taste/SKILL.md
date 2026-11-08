@@ -1,12 +1,12 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: leonxlnx-gpt-taste
-description: "Audit any design against the taste of GPT's interface."
+description: "Build company websites at the level of figma.com and x.ai — plain copy, real photographs, one..."
 ---
 
 # GPT Taste — Awwwards-Level Frontend Design Skill for Muse
 
-Turns Muse into an elite frontend design engineer that aggressively breaks LLM defaults: simulated-Python randomization of hero architecture, typography stacks, and GSAP motion paradigms so no two pages look alike; a mandatory pre-flight `<design_plan>`; AIDA page structure; a hard 2-to-3-line limit on hero headlines with ultra-wide containers; gapless bento grids (`grid-flow-dense`, mathematically verified); and advanced GSAP patterns (scroll pinning, scrubbing text reveals, card stacking, hover physics). It also bans cheap meta-labels ("SECTION 01") and invisible button text. Discovered via skills.sh. Honest note: this is a philosophy-plus-engineering prompt, not a component library — output quality still depends on your stack, and strict GSAP work needs a real GSAP setup in the project. Skill Harbor never reviews the code, review it yourself before use. Not verified.
+tasteskill 2.5.0, the anti-slop frontend skill: builds professional company websites at the level of figma.com and x.ai — plain copy, one system, one section per screen, equal edges, real photographs and real product UI (a product render when there are no photographs), with shader effects, scenes and moments only on tech, gaming and software pages, quiet micro-interactions, and a checker that enforces it in a real browser (consistency.mjs, check.mjs, perf.mjs). It deals the hero, palettes and pairings instead of choosing by taste (deal.mjs, start.mjs, Node's Math.random() over the kind's lists), follows 9 house rules that win over everything else, and needs Node 22+ and Chrome, Edge or Chromium. Use it whenever you build, design, redesign, restyle, polish or review a landing page, company, product, shop, cafe, hotel, studio, SaaS, AI, developer-tool or game site. Discovered via skills.sh. Honest note: this is a skill plus a starter kit and checkers, not a component library — output quality still depends on your brief and your real material (logo, screens, photographs, prices, address, hours), and the checkers need a real browser to run. Skill Harbor never reviews the code, review it yourself before use. Not verified.
 
 - Listing: https://theskillharbor.com/products/leonxlnx-gpt-taste
 - Fiche en français: https://theskillharbor.com/fr/products/leonxlnx-gpt-taste
