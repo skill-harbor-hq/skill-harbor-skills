@@ -13,7 +13,7 @@ Curated by Skill Harbor — the chrome-mcp-troubleshooting skill curated by @tra
 - Category: Browser Automation
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/trailofbits/skills/blob/main/plugins/claude-in-chrome-troubleshooting/skills/chrome-mcp-troubleshooting/SKILL.md
+- Source repo: https://github.com/trailofbits/skills/blob/main/plugins/chrome-mcp-troubleshooting/skills/chrome-mcp-troubleshooting/SKILL.md
 
 ## Install with Muse
 

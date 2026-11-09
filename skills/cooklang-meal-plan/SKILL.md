@@ -13,7 +13,7 @@ Run an interactive weekly meal-planning session: tell Muse your household size, 
 - Category: Lifestyle
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/cooklang/cooklang-skills/blob/HEAD/skills/meal-plan/SKILL.md
+- Source repo: https://github.com/cooklang/cooklang-skills/blob/main/skills/meal-planning/SKILL.md
 
 ## Install with Muse
 

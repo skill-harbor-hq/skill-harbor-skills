@@ -13,7 +13,7 @@ Curated by Skill Harbor — a short pointer to @clerk's official guide for `@cle
 - Category: Developer tools
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/clerk/skills/blob/main/skills/frameworks/clerk-react-patterns/SKILL.md
+- Source repo: https://github.com/clerk/skills/blob/main/skills/clerk-react-patterns/SKILL.md
 
 ## Install with Muse
 

@@ -13,7 +13,7 @@ Honest caveats: search runs on capped keyless access — no API key needed to st
 - Category: Research
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/tavily-ai/skills/blob/main/skills/tavily-search/SKILL.md
+- Source repo: https://github.com/tavily-ai/skills/blob/main/skills/core/tavily-search/SKILL.md
 
 ## Install with Muse
 

@@ -13,7 +13,7 @@ Sponsor and ad-read research on podcasts and YouTube, in both directions: who sp
 - Category: Research and writing
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/arcmira/mcp/blob/main/plugins/arcmira/skills/sponsor-research/SKILL.md
+- Source repo: https://github.com/arcmira/mcp/blob/master/plugins/arcmira/skills/sponsor-research/SKILL.md
 
 ## Install with Muse
 

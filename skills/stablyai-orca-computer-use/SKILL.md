@@ -13,7 +13,7 @@ Honest caveats: the skill is a resolver stub — the full guide ships inside the
 - Category: Developer tools
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/stablyai/orca/blob/main/skills/computer-use/SKILL.md
+- Source repo: https://github.com/stablyai/orca/blob/main/skills/orca-computer-use/SKILL.md
 
 ## Install with Muse
 

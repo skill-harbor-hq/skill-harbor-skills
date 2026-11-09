@@ -13,7 +13,7 @@ Find exact spoken quotes and clip-ready moments on podcasts and YouTube: resolve
 - Category: Research and media
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/arcmira/mcp/blob/main/plugins/arcmira/skills/find-quotes/SKILL.md
+- Source repo: https://github.com/arcmira/mcp/blob/master/plugins/arcmira/skills/find-quotes/SKILL.md
 
 ## Install with Muse
 

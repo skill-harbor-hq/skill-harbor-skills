@@ -13,7 +13,7 @@ Curated by Skill Harbor — @botpress's ADK frontend skill: the official integra
 - Category: AI
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/botpress/skills/blob/main/skills/adk-frontend/SKILL.md
+- Source repo: https://github.com/botpress/skills/blob/master/skills/adk-frontend/SKILL.md
 
 ## Install with Muse
 

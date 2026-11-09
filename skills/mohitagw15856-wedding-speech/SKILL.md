@@ -13,7 +13,7 @@ Turns the panic of giving a wedding speech into a tight 2-4 minute toast built o
 - Category: Writing
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/mohitagw15856/pm-claude-skills/blob/main/exports/openclaw/wedding-speech/SKILL.md
+- Source repo: https://github.com/mohitagw15856/pm-claude-skills/blob/main/skills/wedding-speech/SKILL.md
 
 ## Install with Muse
 

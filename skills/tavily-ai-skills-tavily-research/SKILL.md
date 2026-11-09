@@ -13,7 +13,7 @@ description: "Run multi-step deep research with sources and citations — the bi
 - Category: AI
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/tavily-ai/skills/blob/main/skills/tavily-research/SKILL.md
+- Source repo: https://github.com/tavily-ai/skills/blob/main/skills/tasks/tavily-research/SKILL.md
 
 ## Install with Muse
 

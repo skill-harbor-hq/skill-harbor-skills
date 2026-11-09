@@ -13,7 +13,7 @@ Selected by Skill Harbor — short listing (the repo states no license, so no co
 - Category: Developer tools
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/anthropics/claude-code/blob/main/plugins/plugin-dev/skills/command-development/SKILL.md
+- Source repo: https://github.com/anthropics/claude-plugins-official/blob/main/plugins/plugin-dev/skills/command-development/SKILL.md
 
 ## Install with Muse
 

@@ -13,7 +13,7 @@ Research a person across indexed podcasts and YouTube for interview or meeting p
 - Category: Research and media
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/arcmira/mcp/blob/main/plugins/arcmira/skills/person-research/SKILL.md
+- Source repo: https://github.com/arcmira/mcp/blob/master/plugins/arcmira/skills/person-research/SKILL.md
 
 ## Install with Muse
 

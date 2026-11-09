@@ -13,7 +13,7 @@ Selected by Skill Harbor — short listing (the repo states no license, so no co
 - Category: Frontend
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/syncfusion/blazor-ui-components-skills/blob/main/skills/syncfusion-blazor-ai-assistview/SKILL.md
+- Source repo: https://github.com/syncfusion/blazor-ui-components-skills/blob/master/skills/syncfusion-blazor-ai-assistview/SKILL.md
 
 ## Install with Muse
 

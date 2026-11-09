@@ -13,7 +13,7 @@ Curated by Skill Harbor — a short pointer to @clerk's official guide for advan
 - Category: Developer tools
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/clerk/skills/blob/main/skills/frameworks/clerk-nextjs-patterns/SKILL.md
+- Source repo: https://github.com/clerk/skills/blob/main/skills/clerk-nextjs-patterns/SKILL.md
 
 ## Install with Muse
 

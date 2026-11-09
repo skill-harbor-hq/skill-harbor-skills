@@ -13,7 +13,7 @@ Curated by Skill Harbor — @travisjneuman's generic-fullstack-code-reviewer ski
 - Category: Dev
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/travisjneuman/.claude/blob/main/skills/generic-fullstack-code-reviewer/SKILL.md
+- Source repo: https://github.com/travisjneuman/.claude/blob/master/skills/generic-fullstack-code-reviewer/SKILL.md
 
 ## Install with Muse
 

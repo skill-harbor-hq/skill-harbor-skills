@@ -13,7 +13,7 @@ MIT-licensed. Skill Harbor never reviews the code, review it yourself before use
 - Category: Cloud
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/huaweicloud/huaweicloud-skills/blob/main/skills/container/cci/huawei-cloud-cci-instance-management/SKILL.md
+- Source repo: https://github.com/huaweicloud/huaweicloud-skills/blob/master/skills/container/cci/huawei-cloud-cci-instance-management/SKILL.md
 
 ## Install with Muse
 

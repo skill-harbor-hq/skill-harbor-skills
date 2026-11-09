@@ -13,7 +13,7 @@ Watch a company, brand, person or topic across the podcasts and YouTube shows Ar
 - Category: Business
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/arcmira/mcp/blob/main/plugins/arcmira/skills/company-watch/SKILL.md
+- Source repo: https://github.com/arcmira/mcp/blob/master/plugins/arcmira/skills/company-watch/SKILL.md
 
 ## Install with Muse
 

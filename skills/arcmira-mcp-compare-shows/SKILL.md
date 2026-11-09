@@ -13,7 +13,7 @@ Compare two podcasts or YouTube shows side by side over a stated window (90 days
 - Category: Research and writing
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/arcmira/mcp/blob/main/plugins/arcmira/skills/compare-shows/SKILL.md
+- Source repo: https://github.com/arcmira/mcp/blob/master/plugins/arcmira/skills/compare-shows/SKILL.md
 
 ## Install with Muse
 

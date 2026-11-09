@@ -13,7 +13,7 @@ Honest caveats: exploration only — it deliberately changes nothing; you may ne
 - Category: Developer tools
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/nrwl/nx-ai-agents-config/blob/main/artifacts/skills/nx-workspace/SKILL.md
+- Source repo: https://github.com/nrwl/nx-ai-agents-config/blob/main/skills/nx-workspace/SKILL.md
 
 ## Install with Muse
 

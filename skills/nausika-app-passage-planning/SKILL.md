@@ -15,7 +15,7 @@ Turns Muse into a disciplined sailing-passage planner driven by real marine data
 - Category: Boating & Sailing
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/nausika-app/nausika-skills/blob/main/nausika-passage-planning/SKILL.md
+- Source repo: https://github.com/nausika-app/nausika-skills/blob/main/skills/nausika-passage-planning/SKILL.md
 
 ## Install with Muse
 

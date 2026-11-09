@@ -13,7 +13,7 @@ Curated by Skill Harbor — @travisjneuman's generic-fullstack-design-system ski
 - Category: Design
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/travisjneuman/.claude/blob/main/skills/generic-fullstack-design-system/SKILL.md
+- Source repo: https://github.com/travisjneuman/.claude/blob/master/skills/generic-fullstack-design-system/SKILL.md
 
 ## Install with Muse
 

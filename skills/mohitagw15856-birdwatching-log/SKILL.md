@@ -13,7 +13,7 @@ Gets you started birding from exactly where you are: a likely-species list for y
 - Category: Outdoors
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/mohitagw15856/pm-claude-skills/blob/main/exports/openclaw/birdwatching-log/SKILL.md
+- Source repo: https://github.com/mohitagw15856/pm-claude-skills/blob/main/skills/birdwatching-log/SKILL.md
 
 ## Install with Muse
 

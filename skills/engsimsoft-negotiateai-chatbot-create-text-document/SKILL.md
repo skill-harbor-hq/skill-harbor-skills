@@ -13,7 +13,7 @@ Selected by Skill Harbor — short listing (the repo frontmatter carries no lice
 - Category: Productivity
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/engsimsoft/negotiateai-chatbot/blob/main/lib/prompts/skills/document/create-text-document/SKILL.md
+- Source repo: https://github.com/engsimsoft/negotiateai-chatbot/blob/master/lib/prompts/skills/document/create-text-document/SKILL.md
 
 ## Install with Muse
 

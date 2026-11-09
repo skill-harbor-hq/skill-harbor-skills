@@ -13,7 +13,7 @@ Curated by Skill Harbor — a short pointer to @clerk's clerk-cli operating guid
 - Category: Developer tools
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/clerk/skills/blob/main/skills/core/clerk-cli/SKILL.md
+- Source repo: https://github.com/clerk/skills/blob/main/skills/clerk-cli/SKILL.md
 
 ## Install with Muse
 

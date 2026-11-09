@@ -13,7 +13,7 @@ Curated by Skill Harbor — short listing (the discovery manifest records no lic
 - Category: Frontend
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/syncfusion/javascript-ui-controls-skills/blob/main/skills/syncfusion-javascript-chat-ui/SKILL.md
+- Source repo: https://github.com/syncfusion/javascript-ui-controls-skills/blob/master/skills/syncfusion-javascript-chat-ui/SKILL.md
 
 ## Install with Muse
 

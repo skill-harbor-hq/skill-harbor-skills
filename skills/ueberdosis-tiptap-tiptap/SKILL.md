@@ -15,7 +15,7 @@ Curated by Skill Harbor — @ueberdosis's official tiptap skill (authored by the
 - Category: Frontend
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/ueberdosis/tiptap/blob/main/skills/tiptap/SKILL.md
+- Source repo: https://github.com/ueberdosis/tiptap/blob/main/.agents/skills/tiptap/SKILL.md
 
 ## Install with Muse
 

@@ -13,7 +13,7 @@ Curated by Skill Harbor — @cosscom's skill for using coss UI components correc
 - Category: Frontend
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/cosscom/coss/blob/main/apps/ui/skills/coss/SKILL.md
+- Source repo: https://github.com/cosscom/coss/blob/main/plugins/coss/skills/coss/SKILL.md
 
 ## Install with Muse
 

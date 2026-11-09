@@ -13,7 +13,7 @@ Builds you a small, coherent chess opening repertoire fitted to your style and r
 - Category: Games
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/mohitagw15856/pm-claude-skills/blob/main/exports/openclaw/chess-opening-coach/SKILL.md
+- Source repo: https://github.com/mohitagw15856/pm-claude-skills/blob/main/skills/chess-opening-coach/SKILL.md
 
 ## Install with Muse
 

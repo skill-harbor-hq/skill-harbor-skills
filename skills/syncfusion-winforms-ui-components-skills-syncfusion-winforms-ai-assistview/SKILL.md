@@ -13,7 +13,7 @@ Curated by Skill Harbor — short listing (the discovery manifest records no lic
 - Category: Frontend
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/syncfusion/winforms-ui-components-skills/blob/main/skills/syncfusion-winforms-ai-assistview/SKILL.md
+- Source repo: https://github.com/syncfusion/winforms-ui-components-skills/blob/master/skills/syncfusion-winforms-ai-assistview/SKILL.md
 
 ## Install with Muse
 

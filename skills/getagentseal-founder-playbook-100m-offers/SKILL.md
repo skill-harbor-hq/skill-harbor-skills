@@ -13,7 +13,7 @@ Honest caveats: strategy guidance only — it doesn't sell anything for you; ass
 - Category: Marketing
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/getagentseal/founder-playbook/blob/main/100m-offers/SKILL.md
+- Source repo: https://github.com/getagentseal/founder-playbook/blob/main/skills/100m-offers/SKILL.md
 
 ## Install with Muse
 

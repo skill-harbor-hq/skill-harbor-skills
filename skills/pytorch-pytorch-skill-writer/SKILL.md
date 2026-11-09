@@ -13,7 +13,7 @@ Selected by Skill Harbor — short listing (the repo states no license, so no co
 - Category: Developer tools
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/pytorch/pytorch/blob/main/.claude/skills/skill-writer/SKILL.md
+- Source repo: https://github.com/pytorch/pytorch/blob/main/.agents/skills/skill-writer/SKILL.md
 
 ## Install with Muse
 

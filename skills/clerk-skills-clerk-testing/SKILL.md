@@ -13,7 +13,7 @@ Curated by Skill Harbor — a short pointer to @clerk's official guide for E2E-t
 - Category: Developer tools
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/clerk/skills/blob/main/skills/features/clerk-testing/SKILL.md
+- Source repo: https://github.com/clerk/skills/blob/main/skills/clerk-testing/SKILL.md
 
 ## Install with Muse
 

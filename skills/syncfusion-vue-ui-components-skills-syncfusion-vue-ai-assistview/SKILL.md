@@ -13,7 +13,7 @@ Curated by Skill Harbor — short listing (the discovery manifest records no lic
 - Category: Frontend
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/syncfusion/vue-ui-components-skills/blob/main/skills/syncfusion-vue-ai-assistview/SKILL.md
+- Source repo: https://github.com/syncfusion/vue-ui-components-skills/blob/master/skills/syncfusion-vue-ai-assistview/SKILL.md
 
 ## Install with Muse
 

@@ -13,7 +13,7 @@ Curated by Skill Harbor — @jackspace's ai-elements-chatbot skill, listed here 
 - Category: Frontend
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/jackspace/claudeskillz/blob/main/skills/ai-elements-chatbot/SKILL.md
+- Source repo: https://github.com/jackspace/claudeskillz/blob/master/skills/ai-elements-chatbot/SKILL.md
 
 ## Install with Muse
 

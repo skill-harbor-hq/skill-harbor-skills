@@ -1,19 +1,19 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: software-mansion-argent-argent-create-flow
-description: "Author replayable Argent flow YAML files with live recording, strict polish rules and repair..."
+description: "Create replayable Argent e2e test YAML files with live recording, strict polish rules and repair..."
 ---
 
-# argent-create-flow: record, replay and repair reusable device flows
+# argent-create-e2e: create, record, replay and repair reusable e2e tests
 
-Honest caveats: requires the Argent CLI/MCP toolchain installed — the skill alone does nothing; flows run on simulators/emulators, with a physical-iPhone path that needs an explicit device binding (pinch/rotate steps fail on hardware); a completed path cannot be recorded retroactively, so the recorder must start before the first action. Discovered via skills.sh. Skill Harbor never reviews the code, review it yourself before use.
+Honest caveats: requires the Argent CLI/MCP toolchain installed — the skill alone does nothing; tests run on simulators/emulators, with a physical-iPhone path that needs an explicit device binding (pinch/rotate steps need portrait and fail on hardware without it); a completed path cannot be recorded retroactively, so the recorder must start before the first action. Skill Harbor never reviews the code, review it yourself before use. Discovered via skills.sh.
 
 - Listing: https://theskillharbor.com/products/software-mansion-argent-argent-create-flow
 - Fiche en français: https://theskillharbor.com/fr/products/software-mansion-argent-argent-create-flow
 - Category: Developer tools
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/software-mansion/argent/blob/main/packages/skills/skills/argent-create-flow/SKILL.md
+- Source repo: https://github.com/software-mansion/argent/blob/main/packages/skills/skills/argent-create-e2e/SKILL.md
 
 ## Install with Muse
 

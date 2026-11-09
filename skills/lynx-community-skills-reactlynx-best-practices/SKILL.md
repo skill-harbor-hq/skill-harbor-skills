@@ -13,7 +13,7 @@ Curated by Skill Harbor — @lynx-community's ReactLynx best-practices skill: wr
 - Category: Frontend
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/lynx-community/skills/blob/main/plugins/reactlynx/skills/reactlynx-best-practices/SKILL.md
+- Source repo: https://github.com/lynx-community/skills/blob/release/plugins/reactlynx/skills/reactlynx-best-practices/SKILL.md
 
 ## Install with Muse
 

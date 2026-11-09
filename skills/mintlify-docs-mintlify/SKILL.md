@@ -13,7 +13,7 @@ Curated by Skill Harbor — @mintlify's own reference skill for building documen
 - Category: Developer tools
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/mintlify/docs/blob/main/.claude/skills/mintlify/SKILL.md
+- Source repo: https://github.com/mintlify/docs/blob/main/agent-context/context/skills/mintlify/SKILL.md
 
 ## Install with Muse
 

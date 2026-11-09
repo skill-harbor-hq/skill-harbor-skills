@@ -13,7 +13,7 @@ Curated by Skill Harbor — the official @anthropics frontend-design plugin skil
 - Category: Design
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/anthropics/claude-code/blob/main/plugins/frontend-design/skills/frontend-design/SKILL.md
+- Source repo: https://github.com/anthropics/claude-plugins-official/blob/main/plugins/frontend-design/skills/frontend-design/SKILL.md
 
 ## Install with Muse
 
