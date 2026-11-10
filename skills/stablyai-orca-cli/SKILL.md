@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: stablyai-orca-cli
-description: "Operate Orca-managed worktrees, terminals, repos, automations, artifacts, and its embedded browser..."
+description: "Operate Orca-managed worktrees, folder contexts, terminals, repos, automations, worktree comments..."
 ---
 
 # Orca CLI

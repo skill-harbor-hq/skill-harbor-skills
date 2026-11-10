@@ -1,12 +1,12 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: cathrynlavery-diagram-design
-description: "Professional diagrams in 41 types, on-brand and export-ready"
+description: "Professional diagrams in 45 types, on-brand and export-ready"
 ---
 
 # Diagram Design System
 
-Honest caveats: the default output is HTML rendered in the browser — direct PNG export needs a Python stack you may have to install; you can also import existing draw.io, Mermaid or Excalidraw files instead of starting from scratch. It's a design method, not a guarantee of taste: the intake answers you give determine the result. Skill Harbor never reviews the code, review it yourself before use. Not verified.
+Honest caveats: the default output is HTML rendered in the browser — direct PNG export needs a Python stack you may have to install; you can also import existing draw.io, Mermaid, Excalidraw or PlantUML files instead of starting from scratch. It's a design method, not a guarantee of taste: the intake answers you give determine the result. Skill Harbor never reviews the code, review it yourself before use. Not verified.
 
 - Listing: https://theskillharbor.com/products/cathrynlavery-diagram-design
 - Fiche en français: https://theskillharbor.com/fr/products/cathrynlavery-diagram-design
