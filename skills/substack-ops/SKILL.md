@@ -6,6 +6,8 @@ description: "A production desk for your Substack: drafts, photos, pre-publish a
 
 # Substack Ops
 
+⚠️ Unofficial integration — potentially risky: this third-party build works inside your Substack account (creates drafts, places photos, runs a pre-publish audit). It is legitimate, but you are trusting it with access to your account — drafts only, it never publishes without your approval. Review what it does before installing.
+
 Creates Substack drafts without duplicates, converts Markdown into real formatting, and places photos so later edits never destroy them. Before publishing, it audits the draft for the classic killers — a free post set to paid-only, literal Markdown in the text, unlinked URLs, duplicate images — and always reports readiness separately from publication.
 
 - Listing: https://theskillharbor.com/products/substack-ops

@@ -6,6 +6,8 @@ description: "Clean up your Drive safely — you approve every file before it mo
 
 # Safe Sweep
 
+⚠️ Unofficial integration — potentially risky: this third-party build accesses your Google Drive and Dropbox and moves files to trash. It is legitimate, but you are trusting it with your files — nothing moves without your approval, and the move is reversible. Review what it does before installing.
+
 Inventories one Drive, Dropbox, or local folder by metadata only and sorts every file into Keep, Archive, or Trash candidate, each with a stated reason. Nothing moves without your approval of the exact list, approved files go to the trash — never permanent deletion — and every move is verified and reported with restore instructions.
 
 - Listing: https://theskillharbor.com/products/safe-sweep

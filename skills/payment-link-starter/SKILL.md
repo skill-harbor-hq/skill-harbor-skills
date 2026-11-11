@@ -6,6 +6,8 @@ description: "Set up your first Stripe payment link for a digital product, safel
 
 # Payment Link Starter
 
+⚠️ Unofficial integration — potentially risky: this third-party build works inside your live Stripe account (product and price creation, test purchase). It is legitimate, but you are trusting it with access to your Stripe account — it never asks for your credentials or card data. Review what it does before installing.
+
 Walks a first-time seller from a product file to a live Stripe payment link: readiness and live-mode checks, product and price creation with read-back confirmation, an honest delivery-method choice, and a test purchase before sharing. It never asks for credentials or card data, and never promises revenue.
 
 - Listing: https://theskillharbor.com/products/payment-link-starter

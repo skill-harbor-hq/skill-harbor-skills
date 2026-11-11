@@ -6,6 +6,8 @@ description: "Audit every recurring charge — reconciled, detected, measured."
 
 # Recurring Charge Auditor
 
+⚠️ Unofficial integration — potentially risky: this third-party build reads your subscription screens and payment history to spot recurring charges. It is legitimate, but you are trusting it with a look at your accounts — nothing is ever cancelled without your explicit approval. Review what it does before installing.
+
 Recurring Charge Auditor builds a complete inventory of your subscriptions and recurring charges from subscription screens and payment history, reconciles charges that appear under different names, and flags forgotten charges, duplicates, and price increases. You get measured monthly and annual totals, and nothing is ever cancelled without your explicit approval.
 
 - Listing: https://theskillharbor.com/products/recurring-charge-auditor
