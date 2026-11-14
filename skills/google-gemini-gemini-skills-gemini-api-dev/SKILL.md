@@ -1,12 +1,12 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: google-gemini-gemini-skills-gemini-api-dev
-description: "Official Gemini API rules for Gemini 3 and Flash — keys, text, vision, audio, web grounding"
+description: "Official Gemini API rules for Gemini 3 and Flash — models, text, vision, audio, web grounding"
 ---
 
 # Gemini API Dev Guide
 
-💳 Curated by Skill Harbor — the official Gemini API skill from Google's own repo: hard rules for developing with Gemini — API keys ONLY in environment variables (`GEMINI_API_KEY`, loaded from `~/.gemini/.env`, never in files or chat), never build a client wrapper for yourself, use google-genai v1 (`from google import genai`), pin `gemini-3-pro-preview` for reasoning and `gemini-2.5-flash` (or flash-lite) for speed in a single `AI_GATEWAY`/AI Studio key, never mix SDK generations (no gemini-1.5/2.0 legacy clients), structured output via pydantic schemas, and the canonical recipes for text, vision, video, audio, search-grounding, and URL context. Honest transparency: the file declares that its rules supersede any prior knowledge — treat model names and package versions as frozen at the skill's last update, and always check Google's docs for the current list; it cannot name a release date for the upcoming Gemini 3. Requires a paid API key. By @google-gemini, listed here with credit to its creator. Skill Harbor never reviews the code, review it yourself before use.
+💳 Curated by Skill Harbor — the official Gemini API skill from Google's own repo: hard rules for developing with Gemini — use the google-genai SDK (`from google import genai`, Python `google-genai >= 2.25.0`, JS/TS `@google/genai >= 2.3.0`), default to `gemini-3.8-flash` (fast) and `gemini-3.1-pro-preview` for complex reasoning, coding, and research, never use the legacy SDKs (`google-generativeai`, `@google/generative-ai`) or the deprecated `gemini-1.5-*`, `gemini-2.0-*`, and `gemini-2.5-*` models (if one is requested, substitute `gemini-3.8-flash` and say so), and fetch the matching hosted doc page before writing code — the docs, not the examples, are the source of truth. It covers stateful conversations, response helpers, streaming, Deep Research and managed agents (Antigravity, custom agents), image, video, and speech generation, the interaction data model, and the Gemini Live API skill. Honest transparency: its rules override your training data — treat model names and package versions as frozen at the skill's last update, and check Google's docs for the current list; interactions are stored by default (55 days paid tier, 1 day free tier). By @google-gemini, listed here with credit to its creator. Skill Harbor never reviews the code, review it yourself before use.
 
 - Listing: https://theskillharbor.com/products/google-gemini-gemini-skills-gemini-api-dev
 - Fiche en français: https://theskillharbor.com/fr/products/google-gemini-gemini-skills-gemini-api-dev
