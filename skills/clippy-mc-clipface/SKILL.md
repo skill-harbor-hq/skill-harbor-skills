@@ -10,7 +10,7 @@ description: "Your AI, now a savvy shopper."
 
 Developer detail: the connection IP is processed server-side using a rotating keyed hash, for rate limiting only, and is not stored with individual searches or used to maintain per-user shopping histories.
 
-New in version 2.9.1 (October 2026): the opt-in questions are gone — when you ask to buy, Muse checks McClipFace and tries codes as part of that request, with no question first, and new store visits open through McClipFace's affiliate link by default; a purchase still always needs your explicit approval of the item, the total and the payment. All of this is disclosed in the install prompt before anything is installed.
+New in version 3.4.0 (November 2026): results are now one block per product, each with its own savings line and choices (I'll buy it, Buy it for me, Hold off); a coupon ask now shows every working code, one line each, no cap. Community mode is still off by default and asked only once — now after install or first use, once the first answer is shown, not only after a purchase is done or declined. Buying is unchanged: Muse still checks McClipFace and tries codes with no question first, and a purchase still always needs your explicit approval of the item, the total and the payment. All of this is disclosed in the install prompt before anything is installed.
 
 McClipFace finds your AI coupon codes automatically. When Muse shops for you, it gets codes from McClipFace before it picks a store and again before checkout, and when a store has no code right now, Muse keeps shopping. Free with no account or API key, and McClipFace never buys anything. Affiliate: McClipFace may earn a commission.
 

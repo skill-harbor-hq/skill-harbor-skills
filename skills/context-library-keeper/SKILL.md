@@ -6,6 +6,8 @@ description: "Inventory your piled-up notes into one index. Nothing deleted with
 
 # Context Library Keeper
 
+⚠️ Unofficial integration — potentially risky: this third-party build reads your notes folder, notebook app, and saved-links pile to build one index. It is legitimate, but you are trusting it with a look at your notes — nothing is ever deleted or moved without your explicit approval. Review what it does before installing.
+
 Turns a notes folder, notebook app, or saved-links pile into one index with a one-line summary per item. It flags duplicates, empty stubs, and outdated items, and proves its counts add up. Nothing is deleted or moved without your explicit approval.
 
 - Listing: https://theskillharbor.com/products/context-library-keeper
