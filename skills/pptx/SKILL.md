@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: pptx
-description: "Source-available under Anthropic's terms (not Apache-2.0, not open source — see the licence note on..."
+description: "Apache License 2.0: a complete workflow for anything involving a presentation file"
 ---
 
 # PPTX
