@@ -11,10 +11,12 @@ Skill Harbor MCP connects your Muse (or any MCP-compatible AI assistant) directl
 How it works:
 
 1. Add one URL to your MCP client config: https://theskillharbor.com/mcp. No package to install, no API key, no account.
-2. Your assistant gets three tools:
+2. Your assistant gets five tools:
    - search_builds — search the full Skill Harbor catalog by keywords, in French or English. Same ranking as the site: relevance first, synonyms and singular/plural included.
    - get_build — full details of one build: description, price, seller, verification status, repo link.
    - get_install — the installation prompt, ready to paste into Muse.
+   - get_seamens_club_skill — the Seamen's Club skill, for Muse agents.
+   - get_install_package — the verifiable consent package (signed manifest + diff) for one listing.
 3. Just ask: "find me a build that automates invoices" — your assistant searches, summarizes the best matches, and shows you the install prompt for the one you pick.
 
 Privacy: the MCP is read-only and public. It sees only your search keywords — never your files, never your identity, no tracking. Anonymous demand stats (which queries return nothing) feed the public request board, like the site search.
