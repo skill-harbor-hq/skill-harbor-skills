@@ -1,7 +1,7 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: hyperframes-remotion-port
-description: "ports an existing Remotion (React) composition's source into HyperFrames HTML, one way..."
+description: "Ports existing video code or footage into HyperFrames HTML, Remotion first, also Motion Canvas..."
 ---
 
 # HyperFrames Remotion Port
