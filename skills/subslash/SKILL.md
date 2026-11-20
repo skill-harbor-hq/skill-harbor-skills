@@ -6,7 +6,7 @@ description: "Finds and stops forgotten subscriptions draining your money"
 
 # SubSlash
 
-⚠️ Unofficial integration — potentially risky: this third-party app reads your phone's notifications to spot subscription charges, including bank and card notifications. It is legitimate, but you are trusting it with a look at your financial notifications — nothing is ever cancelled without your approval. Review what it does before installing.
+⚠️ Unofficial integration — potentially risky: this third-party app reads your phone's notifications to spot subscription charges, including bank and card notifications. It is legitimate, but you are trusting it with a look at your financial notifications — nothing is ever cancelled without your approval. Review what it does before installing. Note: the app also offers an optional Sync Bank connection, not covered by the install prompt. In the vendor's demo it shows as 'Not connected'.
 
 SubSlash tracks your subscriptions and spending automatically from your phone's notifications — no account, no bank login, and everything stays on your phone. When you want to cancel, it opens the provider's cancel page so you finish there.
 
