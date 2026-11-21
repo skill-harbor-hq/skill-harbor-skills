@@ -1,12 +1,14 @@
 <!-- AUTO-GENERATED from the Skill Harbor catalog. Do not edit by hand. -->
 ---
 name: web-design-guidelines
-description: "A one-file review skill with a disclosed remote fetch: it holds no rules itself — before each review"
+description: "A two-file review skill with bundled rules: it reads references/command.md before each review"
 ---
 
 # Web Design Guidelines
 
 MIT-licensed (announced in the upstream README; no LICENSE file). Skill Harbor never reviews the code, review it yourself before use.
+
+Changed November 21, 2026 (version 1.1.0, pinned to commit 5a37a632…): the remote fetch described above no longer happens. The rules are now bundled with the skill in references/command.md (8,055 bytes, 191 lines) instead of being fetched fresh from the network before each review; the skill reads that file before each review and fetches nothing. The bundled snapshot is pinned to upstream commit 434b7f91364665f2f733b310ec54809bf8f37937 and holds 104 rule entries (90 rules plus 14 anti-patterns), so the 100+ rules above still hold. Using the skill no longer needs network access at review time, and the review now runs on the pinned bundled rules rather than on the latest upstream rules.
 
 - Listing: https://theskillharbor.com/products/web-design-guidelines
 - Fiche en français: https://theskillharbor.com/fr/products/web-design-guidelines
