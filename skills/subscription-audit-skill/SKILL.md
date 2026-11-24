@@ -13,7 +13,7 @@ This skill audits the recurring charges you list from your receipts. It groups t
 - Category: Finance
 - Price: Free
 - Verification: unverified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/subscription-audit-skill/SKILL.md
 
 ## Install with Muse
 

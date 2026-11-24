@@ -15,7 +15,7 @@ Unofficial fan reconstitution. Not affiliated with, endorsed by, or connected to
 - Category: Lifestyle
 - Price: Free
 - Verification: unverified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/star-wars-yoda-skill/SKILL.md
 
 ## Install with Muse
 

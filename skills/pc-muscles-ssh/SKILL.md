@@ -13,7 +13,7 @@ PC Muscles over SSH keeps the brain in the cloud and borrows only CPU, RAM and d
 - Category: Developer tools
 - Price: Free
 - Verification: verified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/pc-muscles-ssh/SKILL.md
 
 ## Install with Muse
 

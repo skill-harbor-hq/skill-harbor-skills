@@ -13,7 +13,7 @@ This skill turns your plant list into a seasonal watering and feeding schedule. 
 - Category: Lifestyle
 - Price: Free
 - Verification: unverified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/plant-care-skill/SKILL.md
 
 ## Install with Muse
 

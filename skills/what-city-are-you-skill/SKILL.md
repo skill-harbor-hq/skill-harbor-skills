@@ -15,7 +15,7 @@ A general public travel quiz for everyone. No technical skill is needed. You jus
 - Category: Games
 - Price: Free
 - Verification: unverified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/what-city-are-you-skill/SKILL.md
 
 ## Install with Muse
 

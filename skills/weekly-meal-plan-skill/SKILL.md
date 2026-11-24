@@ -15,7 +15,7 @@ You say how many dinners you want, the default is 5, never 7 unless you ask for 
 - Category: Food & Drink
 - Price: Free
 - Verification: unverified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/weekly-meal-plan-skill/SKILL.md
 
 ## Install with Muse
 

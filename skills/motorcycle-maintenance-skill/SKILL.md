@@ -13,7 +13,7 @@ This skill keeps one motorcycle road-ready with a service calendar built from yo
 - Category: Lifestyle
 - Price: Free
 - Verification: unverified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/motorcycle-maintenance-skill/SKILL.md
 
 ## Install with Muse
 

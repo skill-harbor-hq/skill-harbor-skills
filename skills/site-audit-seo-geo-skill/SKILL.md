@@ -13,7 +13,7 @@ This skill audits one website in chat. It checks the technical basics, the conte
 - Category: Marketing
 - Price: Free
 - Verification: unverified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/site-audit-seo-geo-skill/SKILL.md
 
 ## Install with Muse
 

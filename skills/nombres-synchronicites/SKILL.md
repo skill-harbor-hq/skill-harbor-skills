@@ -17,7 +17,7 @@ For coincidences that genuinely struck you, you flag them when they happen, and 
 - Category: Lifestyle
 - Price: Free
 - Verification: verified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/nombres-synchronicites/SKILL.md
 
 ## Install with Muse
 

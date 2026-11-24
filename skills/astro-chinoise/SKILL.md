@@ -17,7 +17,7 @@ Then it keeps a journal with you, one lunar year at a time: an intention when th
 - Category: Lifestyle
 - Price: Free
 - Verification: verified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/astro-chinoise/SKILL.md
 
 ## Install with Muse
 

@@ -15,7 +15,7 @@ Every explanation follows the same order: the simple answer in 3 sentences maxim
 - Category: Education
 - Price: Free
 - Verification: unverified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/explain-simply-skill/SKILL.md
 
 ## Install with Muse
 

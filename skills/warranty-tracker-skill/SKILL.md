@@ -13,7 +13,7 @@ This skill keeps every device warranty in one place, with its end date and recei
 - Category: Finance
 - Price: Free
 - Verification: unverified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/warranty-tracker-skill/SKILL.md
 
 ## Install with Muse
 

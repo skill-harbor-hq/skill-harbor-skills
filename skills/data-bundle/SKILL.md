@@ -17,7 +17,7 @@ Honesty from the start, written in the bundle itself: This theme is only partly 
 - Category: Data
 - Price: Free
 - Verification: unverified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/data-bundle/SKILL.md
 
 ## Install with Muse
 

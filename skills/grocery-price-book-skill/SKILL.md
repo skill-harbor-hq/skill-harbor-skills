@@ -13,7 +13,7 @@ This skill turns the receipts you share into a price book. For each staple, by s
 - Category: Lifestyle
 - Price: Free
 - Verification: unverified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/grocery-price-book-skill/SKILL.md
 
 ## Install with Muse
 

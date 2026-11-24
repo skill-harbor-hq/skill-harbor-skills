@@ -17,7 +17,7 @@ Honest limits, written in plain words, in the bundle itself: - Structure, prompt
 - Category: Media
 - Price: Free
 - Verification: unverified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/media-bundle/SKILL.md
 
 ## Install with Muse
 

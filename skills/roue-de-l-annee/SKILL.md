@@ -17,7 +17,7 @@ Around each festival you dictate short journal entries; after it, the assistant 
 - Category: Lifestyle
 - Price: Free
 - Verification: verified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/roue-de-l-annee/SKILL.md
 
 ## Install with Muse
 

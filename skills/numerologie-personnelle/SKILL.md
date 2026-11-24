@@ -15,7 +15,7 @@ What the numbers mean is another matter, and the skill keeps the two separate. T
 - Category: Lifestyle
 - Price: Free
 - Verification: verified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/numerologie-personnelle/SKILL.md
 
 ## Install with Muse
 

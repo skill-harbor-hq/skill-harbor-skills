@@ -13,7 +13,7 @@ This skill turns your birthday list into a monthly radar. You give each person a
 - Category: Lifestyle
 - Price: Free
 - Verification: unverified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/birthday-radar-skill/SKILL.md
 
 ## Install with Muse
 

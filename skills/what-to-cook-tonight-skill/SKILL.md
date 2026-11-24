@@ -15,7 +15,7 @@ General public skill, in plain language. No technical skill needed, no code, no 
 - Category: Food & Drink
 - Price: Free
 - Verification: unverified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/what-to-cook-tonight-skill/SKILL.md
 
 ## Install with Muse
 

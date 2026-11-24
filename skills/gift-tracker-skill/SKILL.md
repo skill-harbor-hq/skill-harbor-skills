@@ -13,7 +13,7 @@ This skill keeps your gift list in one place. Give the people on your list, your
 - Category: Lifestyle
 - Price: Free
 - Verification: unverified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/gift-tracker-skill/SKILL.md
 
 ## Install with Muse
 

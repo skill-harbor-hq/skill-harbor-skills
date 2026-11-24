@@ -13,7 +13,7 @@ This skill turns a freelance job into a clear quote. Give the work, your hourly 
 - Category: Business
 - Price: Free
 - Verification: unverified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/freelance-quote-skill/SKILL.md
 
 ## Install with Muse
 

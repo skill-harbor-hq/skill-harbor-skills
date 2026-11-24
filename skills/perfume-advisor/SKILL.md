@@ -19,7 +19,7 @@ Finally, it helps you try before you buy: stores near you that carry the scent, 
 - Category: Lifestyle
 - Price: Free
 - Verification: unverified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/perfume-advisor/SKILL.md
 
 ## Install with Muse
 

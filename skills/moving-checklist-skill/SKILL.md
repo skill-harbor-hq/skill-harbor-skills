@@ -13,7 +13,7 @@ This skill turns your move date into an eight week plan, in order. You give the 
 - Category: Lifestyle
 - Price: Free
 - Verification: unverified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/moving-checklist-skill/SKILL.md
 
 ## Install with Muse
 

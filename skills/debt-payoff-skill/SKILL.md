@@ -13,7 +13,7 @@ This skill turns the debts you list into a payoff plan you can follow. Give each
 - Category: Finance
 - Price: Free
 - Verification: unverified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/debt-payoff-skill/SKILL.md
 
 ## Install with Muse
 

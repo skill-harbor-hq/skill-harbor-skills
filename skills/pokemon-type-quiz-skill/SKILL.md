@@ -15,7 +15,7 @@ Unofficial, not affiliated with Nintendo or The Pokemon Company. No official ima
 - Category: Games
 - Price: Free
 - Verification: unverified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/pokemon-type-quiz-skill/SKILL.md
 
 ## Install with Muse
 

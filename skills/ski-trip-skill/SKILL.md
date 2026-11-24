@@ -13,7 +13,7 @@ This skill plans a ski day or weekend from the resort, the drive, and the budget
 - Category: Lifestyle
 - Price: Free
 - Verification: unverified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/ski-trip-skill/SKILL.md
 
 ## Install with Muse
 

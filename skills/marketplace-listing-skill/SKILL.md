@@ -13,7 +13,7 @@ This skill turns your photos and description into a ready to post marketplace li
 - Category: Business
 - Price: Free
 - Verification: unverified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/marketplace-listing-skill/SKILL.md
 
 ## Install with Muse
 

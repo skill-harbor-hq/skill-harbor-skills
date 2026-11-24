@@ -13,7 +13,7 @@ This skill builds a photo inventory of your home. Tell it your rooms and your bi
 - Category: Lifestyle
 - Price: Free
 - Verification: unverified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/home-inventory-skill/SKILL.md
 
 ## Install with Muse
 

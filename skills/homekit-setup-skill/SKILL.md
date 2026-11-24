@@ -13,7 +13,7 @@ This skill sets up Apple HomeKit for your home. Give your rooms, your devices, a
 - Category: Lifestyle
 - Price: Free
 - Verification: unverified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/homekit-setup-skill/SKILL.md
 
 ## Install with Muse
 

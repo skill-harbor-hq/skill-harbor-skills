@@ -19,7 +19,7 @@ Honest...
 - Category: Business
 - Price: Free
 - Verification: unverified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/business-bundle/SKILL.md
 
 ## Install with Muse
 

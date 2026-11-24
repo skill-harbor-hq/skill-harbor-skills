@@ -13,7 +13,7 @@ This skill builds a weekly cleaning schedule for your home. Tell it your rooms, 
 - Category: Lifestyle
 - Price: Free
 - Verification: unverified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/cleaning-schedule-skill/SKILL.md
 
 ## Install with Muse
 

@@ -19,7 +19,7 @@ When the run ends, the verdict is copied back to the cloud machine and checked a
 - Category: Developer tools
 - Price: Free
 - Verification: verified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/recette-ssh-pc-portable/SKILL.md
 
 ## Install with Muse
 

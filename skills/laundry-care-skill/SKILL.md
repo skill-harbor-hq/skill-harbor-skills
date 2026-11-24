@@ -13,7 +13,7 @@ This skill reads care labels, sorts laundry, and treats stains before washing. G
 - Category: Lifestyle
 - Price: Free
 - Verification: unverified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/laundry-care-skill/SKILL.md
 
 ## Install with Muse
 

@@ -17,7 +17,7 @@ During the period you dictate 30-second journal entries; after it ends, the assi
 - Category: Lifestyle
 - Price: Free
 - Verification: verified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/journal-celeste/SKILL.md
 
 ## Install with Muse
 

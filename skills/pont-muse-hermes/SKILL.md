@@ -19,7 +19,7 @@ Autonomous rounds are optional and need their own go. Once set up, the local age
 - Category: Developer tools
 - Price: Free
 - Verification: verified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/pont-muse-hermes/SKILL.md
 
 ## Install with Muse
 

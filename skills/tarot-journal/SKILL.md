@@ -17,7 +17,7 @@ Later, at the review, the assistant reads the entries back and asks for your ver
 - Category: Lifestyle
 - Price: Free
 - Verification: verified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/tarot-journal/SKILL.md
 
 ## Install with Muse
 

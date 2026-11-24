@@ -17,7 +17,7 @@ If you want to go further, say so. Only then, on your explicit word, it can look
 - Category: Design
 - Price: Free
 - Verification: unverified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/designer-bundle/SKILL.md
 
 ## Install with Muse
 

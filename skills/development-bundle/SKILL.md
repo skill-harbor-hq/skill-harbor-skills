@@ -19,7 +19,7 @@ Honest limits, written in the bundle itself: - A summary alone does not make cod
 - Category: Developer tools
 - Price: Free
 - Verification: unverified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/development-bundle/SKILL.md
 
 ## Install with Muse
 

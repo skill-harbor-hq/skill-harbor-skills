@@ -10,6 +10,8 @@ Stop opening your admin panel. Admin Bridge lets your Muse run your site's back 
 
 Offered free by the founder of Skill Harbor.
 
+It is a Skill Harbor house build, free to use under the proprietary Skill Harbor House License v1.0, all rights reserved.
+
 - Listing: https://theskillharbor.com/products/admin-bridge
 - Fiche en français: https://theskillharbor.com/fr/products/admin-bridge
 - Category: Productivity

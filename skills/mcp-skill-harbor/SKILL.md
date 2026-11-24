@@ -23,6 +23,8 @@ Privacy: the MCP is read-only and public. It sees only your search keywords — 
 
 Runs on Skill Harbor's own infrastructure, deployed with the site. If the site is up, the MCP is up.
 
+It is a...
+
 - Listing: https://theskillharbor.com/products/mcp-skill-harbor
 - Fiche en français: https://theskillharbor.com/fr/products/mcp-skill-harbor
 - Category: Connectors

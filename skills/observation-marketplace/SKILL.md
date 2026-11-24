@@ -19,7 +19,7 @@ Important, stated in the skill itself: this draft is pending the review on 30 Oc
 - Category: Data
 - Price: Free
 - Verification: verified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/observation-marketplace/SKILL.md
 
 ## Install with Muse
 

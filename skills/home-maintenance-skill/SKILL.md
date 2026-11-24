@@ -13,7 +13,7 @@ This skill builds a year-round maintenance calendar for your home. Give your hom
 - Category: Lifestyle
 - Price: Free
 - Verification: unverified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/home-maintenance-skill/SKILL.md
 
 ## Install with Muse
 

@@ -13,7 +13,7 @@ This skill plans a week of school lunches a parent can pack without a morning sc
 - Category: Lifestyle
 - Price: Free
 - Verification: unverified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/school-lunch-skill/SKILL.md
 
 ## Install with Muse
 

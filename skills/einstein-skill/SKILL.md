@@ -13,7 +13,7 @@ This skill lets you talk with an AI reconstitution of Albert Einstein, the physi
 - Category: Lifestyle
 - Price: Free
 - Verification: unverified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/einstein-skill/SKILL.md
 
 ## Install with Muse
 

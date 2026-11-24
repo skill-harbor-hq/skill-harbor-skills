@@ -15,7 +15,7 @@ Unofficial fan quiz. Not affiliated with, endorsed by, or connected to Warner Br
 - Category: Games
 - Price: Free
 - Verification: unverified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/friends-quiz-skill/SKILL.md
 
 ## Install with Muse
 

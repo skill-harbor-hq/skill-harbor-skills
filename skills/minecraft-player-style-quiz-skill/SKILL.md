@@ -15,7 +15,7 @@ It is a fan quiz, unofficial, not affiliated with Mojang or Microsoft. No offici
 - Category: Games
 - Price: Free
 - Verification: unverified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/minecraft-player-style-quiz-skill/SKILL.md
 
 ## Install with Muse
 

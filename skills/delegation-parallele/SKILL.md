@@ -13,7 +13,7 @@ Parallel Delegation is a working method for long, multi-step, self-contained wor
 - Category: Developer tools
 - Price: Free
 - Verification: verified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/delegation-parallele/SKILL.md
 
 ## Install with Muse
 

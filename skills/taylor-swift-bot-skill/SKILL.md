@@ -13,7 +13,7 @@ This skill lets you talk with Taylor Swift Bot, a fan-made AI inspired by the pu
 - Category: Lifestyle
 - Price: Free
 - Verification: unverified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/taylor-swift-bot-skill/SKILL.md
 
 ## Install with Muse
 

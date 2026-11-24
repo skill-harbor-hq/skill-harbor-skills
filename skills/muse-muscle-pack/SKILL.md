@@ -16,6 +16,8 @@ Three prompts, used in order:
 
 Battle-tested on real hardware (Ryzen 5 1600 + Radeon RX 580 8 GB, ~23-35 tokens/sec, full reboot cycle verified). Every hard lesson is baked in: the prompts detect hardware themselves, verify downloads by magic bytes, enforce auth before any exposure, and recover from interruptions — you never debug alone.
 
+It is a Skill Harbor house build, free to use under the proprietary Skill Harbor House License v1.0, all rights reserved.
+
 - Listing: https://theskillharbor.com/products/muse-muscle-pack
 - Fiche en français: https://theskillharbor.com/fr/products/muse-muscle-pack
 - Category: Developer tools

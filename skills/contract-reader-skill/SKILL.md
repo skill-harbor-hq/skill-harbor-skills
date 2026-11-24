@@ -13,7 +13,7 @@ This skill turns a pasted contract into a plain language summary. You paste the 
 - Category: Business
 - Price: Free
 - Verification: unverified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/contract-reader-skill/SKILL.md
 
 ## Install with Muse
 

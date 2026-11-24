@@ -17,7 +17,7 @@ Honest limits, written in the bundle itself: - House does not mean best for ever
 - Category: Productivity
 - Price: Free
 - Verification: unverified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/house-bundle/SKILL.md
 
 ## Install with Muse
 

@@ -19,7 +19,7 @@ Honest limits, written in the bundle itself: - A summary alone does not improve 
 - Category: SEO
 - Price: Free
 - Verification: unverified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/seo-bundle/SKILL.md
 
 ## Install with Muse
 

@@ -38,7 +38,7 @@ every...
 - Category: Developer tools
 - Price: Free
 - Verification: verified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/seo-audit-muse/SKILL.md
 
 ## Install with Muse
 

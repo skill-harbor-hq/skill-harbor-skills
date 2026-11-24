@@ -17,7 +17,7 @@ The reference method comes from edition 2, published on 2026-10-24, covering dat
 - Category: Developer tools
 - Price: Free
 - Verification: verified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/state-of-agent-skills/SKILL.md
 
 ## Install with Muse
 

@@ -25,7 +25,7 @@ Tested live, 2026-11-08, no browser: Pollinations answered in about 13 seconds w
 - Category: Productivity
 - Price: Free
 - Verification: verified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/brainstorm-ia-gratuites/SKILL.md
 
 ## Install with Muse
 

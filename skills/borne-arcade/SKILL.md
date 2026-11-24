@@ -13,7 +13,7 @@ Six games, playable in your browser, not inside Muse. 1. Stellar Defense : 11 by
 - Category: Fun & games
 - Price: Free
 - Verification: verified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/borne-arcade/SKILL.md
 
 ## Install with Muse
 

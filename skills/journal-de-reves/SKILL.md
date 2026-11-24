@@ -17,7 +17,7 @@ Interpretation is a lens you choose at setup (none, psychological, traditional-s
 - Category: Lifestyle
 - Price: Free
 - Verification: verified
-- Source repo: n/a
+- Source repo: https://github.com/skill-harbor-hq/house-skills/blob/main/journal-de-reves/SKILL.md
 
 ## Install with Muse
 
