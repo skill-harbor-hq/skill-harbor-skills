@@ -6,7 +6,9 @@ description: "An art-direction skill that turns Muse into a mobile product desig
 
 # Taste Skill — Mobile Image Generation
 
-Honest caveats: it produces images only — no code, no websites, no desktop dashboards; output quality depends on your agent's image-generation capability; expect to iterate a few times to nail the style. Skill Harbor never reviews the code, review it yourself before use.
+Curated by Skill Harbor: An art-direction skill that turns Muse into a mobile product design director: describe an app screen or flow (onboarding, dashboard, chat, checkout…) and it generates premium, app-native screen concepts with coherent style, controlled palettes, and believable phone framing. By @leonxlnx, listed here with credit to its creator. Honest caveats: it produces images only: no code, no websites, no desktop dashboards; output quality depends on your agent's image-generation capability; expect to iterate a few times to nail the style. Skill Harbor never reviews the code, review it yourself before use.
+
+Updated November 28, 2026: the install prompt now describes the skill itself instead of the repository move; the pinned file is unchanged.
 
 - Listing: https://theskillharbor.com/products/leonxlnx-imagegen-frontend-mobile
 - Fiche en français: https://theskillharbor.com/fr/products/leonxlnx-imagegen-frontend-mobile

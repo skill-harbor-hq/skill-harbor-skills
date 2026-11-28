@@ -13,7 +13,7 @@ Honest caveats: requires Node.js or Python and MCP SDK knowledge — the agent w
 - Category: Developer tools
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/jeffallan/claude-skills/blob/main/skills/mcp-developer/SKILL.md
+- Source repo: https://github.com/jeffallan/claude-skills/blob/main/plugin/skills/mcp-developer/SKILL.md
 
 ## Install with Muse
 

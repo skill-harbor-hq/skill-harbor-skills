@@ -13,7 +13,7 @@ Curated by Skill Harbor: a full multi-agent orchestration workflow on top of the
 - Category: Agents
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/affaan-m/ECC/blob/main/skills/claude-devfleet/SKILL.md
+- Source repo: https://github.com/affaan-m/ECC/blob/main/skills/devfleet/SKILL.md
 
 ## Install with Muse
 

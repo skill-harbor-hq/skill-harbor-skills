@@ -13,7 +13,7 @@ Skill Harbor never reviews the code, review it yourself before use.
 - Category: Backend
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/jeffallan/claude-skills/blob/main/skills/laravel-specialist/SKILL.md
+- Source repo: https://github.com/jeffallan/claude-skills/blob/main/plugin/skills/laravel-specialist/SKILL.md
 
 ## Install with Muse
 

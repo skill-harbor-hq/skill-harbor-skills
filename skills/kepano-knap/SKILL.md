@@ -13,7 +13,7 @@ Curated by Skill Harbor: a small command-line templating skill from the kepano O
 - Category: Developer tools
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/kepano/obsidian-skills/blob/main/skills/knap/SKILL.md
+- Source repo: https://github.com/kepano/obsidian-skills/blob/main/plugins/obsidian/skills/knap/SKILL.md
 
 ## Install with Muse
 

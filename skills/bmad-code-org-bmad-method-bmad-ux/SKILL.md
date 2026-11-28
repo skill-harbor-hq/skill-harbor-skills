@@ -13,7 +13,7 @@ Selected by Skill Harbor — short listing (the repo states no license, so no co
 - Category: Design
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/bmad-code-org/bmad-method/blob/main/skills/bmad-ux/SKILL.md
+- Source repo: https://github.com/bmad-code-org/BMAD-METHOD/blob/main/skills/method/bmad-ux/SKILL.md
 
 ## Install with Muse
 

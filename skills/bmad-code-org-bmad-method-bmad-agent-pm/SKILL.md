@@ -13,7 +13,7 @@ Curated by Skill Harbor — a short pointer to @bmad-code-org's John, the produc
 - Category: AI agents
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/bmad-code-org/BMAD-METHOD/blob/main/skills/bmad-agent-pm/SKILL.md
+- Source repo: https://github.com/bmad-code-org/BMAD-METHOD/blob/main/skills/method/bmad-agent-pm/SKILL.md
 
 ## Install with Muse
 

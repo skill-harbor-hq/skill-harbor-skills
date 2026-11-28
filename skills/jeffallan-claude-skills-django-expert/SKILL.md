@@ -13,7 +13,7 @@ Honest caveats: requires a Python/Django project — the agent writes code, you 
 - Category: Backend
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/jeffallan/claude-skills/blob/main/skills/django-expert/SKILL.md
+- Source repo: https://github.com/jeffallan/claude-skills/blob/main/plugin/skills/django-expert/SKILL.md
 
 ## Install with Muse
 

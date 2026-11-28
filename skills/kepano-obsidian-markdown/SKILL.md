@@ -13,7 +13,7 @@ Skill Harbor never reviews the code, review it yourself before use.
 - Category: Productivity
 - Price: Free
 - Verification: unverified
-- Source repo: https://github.com/kepano/obsidian-skills/blob/main/skills/obsidian-markdown/SKILL.md
+- Source repo: https://github.com/kepano/obsidian-skills/blob/main/plugins/obsidian/skills/obsidian-markdown/SKILL.md
 
 ## Install with Muse
 
