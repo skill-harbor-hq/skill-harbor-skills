@@ -6,6 +6,8 @@ description: "Ships an app clone live on the user's own domain: a preflight gate
 
 # Replica Deploy, ship your clone live on your own domain
 
+Install verified — live purchase not testable in sandbox. This skill needs a real account and real payment to complete a real booking, so the booking step could not be tested end to end.
+
 Curated by Skill Harbor: the final, shipping step of the 11-skill Replica pack. Replica Deploy runs a preflight gate first: tests green, parity must-haves done, rebrand sweep clean, listing linted if shipping to stores, legal pages up, and no open S1 or S2 bugs, and any failure stops the deploy. Only then does it move the clone to a separate production database, a host and your own domain, with DNS and email records, Stripe in live mode, OAuth redirects and monitoring, plus mobile builds to TestFlight and Play if there is an app. Nothing goes live without your go after the preflight, and you buy and sign in yourself. By @Jakeschincariol, listed here with credit to its creator. Skill Harbor never reviews the code of a listed skill, so review it yourself before use.
 
 - Listing: https://theskillharbor.com/products/jakeschincariol-replica-skill-replica-deploy
